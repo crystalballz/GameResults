@@ -1,0 +1,741 @@
+TEAM_ID|DIVISION|LEAGUE|PREFIX_1|PREFIX_2|TEAM|URL
+Baltimore Orioles|AL East|mlb|bal|baltimore-orioles|Baltimore Orioles|http://www.espn.com/mlb/team/_/name/bal/baltimore-orioles
+Boston Red Sox|AL East|mlb|bos|boston-red-sox|Boston Red Sox|http://www.espn.com/mlb/team/_/name/bos/boston-red-sox
+New York Yankees|AL East|mlb|nyy|new-york-yankees|New York Yankees|http://www.espn.com/mlb/team/_/name/nyy/new-york-yankees
+Tampa Bay Rays|AL East|mlb|tb|tampa-bay-rays|Tampa Bay Rays|http://www.espn.com/mlb/team/_/name/tb/tampa-bay-rays
+Toronto Blue Jays|AL East|mlb|tor|toronto-blue-jays|Toronto Blue Jays|http://www.espn.com/mlb/team/_/name/tor/toronto-blue-jays
+Atlanta Braves|NL East|mlb|atl|atlanta-braves|Atlanta Braves|http://www.espn.com/mlb/team/_/name/atl/atlanta-braves
+Miami Marlins|NL East|mlb|mia|miami-marlins|Miami Marlins|http://www.espn.com/mlb/team/_/name/mia/miami-marlins
+New York Mets|NL East|mlb|nym|new-york-mets|New York Mets|http://www.espn.com/mlb/team/_/name/nym/new-york-mets
+Philadelphia Phillies|NL East|mlb|phi|philadelphia-phillies|Philadelphia Phillies|http://www.espn.com/mlb/team/_/name/phi/philadelphia-phillies
+Washington Nationals|NL East|mlb|wsh|washington-nationals|Washington Nationals|http://www.espn.com/mlb/team/_/name/wsh/washington-nationals
+Chicago White Sox|AL Central|mlb|chw|chicago-white-sox|Chicago White Sox|http://www.espn.com/mlb/team/_/name/chw/chicago-white-sox
+Cleveland Indians|AL Central|mlb|cle|cleveland-indians|Cleveland Indians|http://www.espn.com/mlb/team/_/name/cle/cleveland-indians
+Detroit Tigers|AL Central|mlb|det|detroit-tigers|Detroit Tigers|http://www.espn.com/mlb/team/_/name/det/detroit-tigers
+Kansas City Royals|AL Central|mlb|kc|kansas-city-royals|Kansas City Royals|http://www.espn.com/mlb/team/_/name/kc/kansas-city-royals
+Minnesota Twins|AL Central|mlb|min|minnesota-twins|Minnesota Twins|http://www.espn.com/mlb/team/_/name/min/minnesota-twins
+Chicago Cubs|NL Central|mlb|chc|chicago-cubs|Chicago Cubs|http://www.espn.com/mlb/team/_/name/chc/chicago-cubs
+Cincinnati Reds|NL Central|mlb|cin|cincinnati-reds|Cincinnati Reds|http://www.espn.com/mlb/team/_/name/cin/cincinnati-reds
+Milwaukee Brewers|NL Central|mlb|mil|milwaukee-brewers|Milwaukee Brewers|http://www.espn.com/mlb/team/_/name/mil/milwaukee-brewers
+Pittsburgh Pirates|NL Central|mlb|pit|pittsburgh-pirates|Pittsburgh Pirates|http://www.espn.com/mlb/team/_/name/pit/pittsburgh-pirates
+St. Louis Cardinals|NL Central|mlb|stl|st.-louis-cardinals|St. Louis Cardinals|http://www.espn.com/mlb/team/_/name/stl/st.-louis-cardinals
+Houston Astros|AL West|mlb|hou|houston-astros|Houston Astros|http://www.espn.com/mlb/team/_/name/hou/houston-astros
+Los Angeles Angels|AL West|mlb|laa|los-angeles-angels|Los Angeles Angels|http://www.espn.com/mlb/team/_/name/laa/los-angeles-angels
+Oakland Athletics|AL West|mlb|oak|oakland-athletics|Oakland Athletics|http://www.espn.com/mlb/team/_/name/oak/oakland-athletics
+Seattle Mariners|AL West|mlb|sea|seattle-mariners|Seattle Mariners|http://www.espn.com/mlb/team/_/name/sea/seattle-mariners
+Texas Rangers|AL West|mlb|tex|texas-rangers|Texas Rangers|http://www.espn.com/mlb/team/_/name/tex/texas-rangers
+Arizona Diamondbacks|NL West|mlb|ari|arizona-diamondbacks|Arizona Diamondbacks|http://www.espn.com/mlb/team/_/name/ari/arizona-diamondbacks
+Colorado Rockies|NL West|mlb|col|colorado-rockies|Colorado Rockies|http://www.espn.com/mlb/team/_/name/col/colorado-rockies
+Los Angeles Dodgers|NL West|mlb|lad|los-angeles-dodgers|Los Angeles Dodgers|http://www.espn.com/mlb/team/_/name/lad/los-angeles-dodgers
+San Diego Padres|NL West|mlb|sd|san-diego-padres|San Diego Padres|http://www.espn.com/mlb/team/_/name/sd/san-diego-padres
+San Francisco Giants|NL West|mlb|sf|san-francisco-giants|San Francisco Giants|http://www.espn.com/mlb/team/_/name/sf/san-francisco-giants
+Boston Celtics|Atlantic|nba|bos|boston-celtics|Boston Celtics|http://www.espn.com/nba/team/_/name/bos/boston-celtics
+Brooklyn Nets|Atlantic|nba|bkn|brooklyn-nets|Brooklyn Nets|http://www.espn.com/nba/team/_/name/bkn/brooklyn-nets
+New York Knicks|Atlantic|nba|ny|new-york-knicks|New York Knicks|http://www.espn.com/nba/team/_/name/ny/new-york-knicks
+Philadelphia 76ers|Atlantic|nba|phi|philadelphia-76ers|Philadelphia 76ers|http://www.espn.com/nba/team/_/name/phi/philadelphia-76ers
+Toronto Raptors|Atlantic|nba|tor|toronto-raptors|Toronto Raptors|http://www.espn.com/nba/team/_/name/tor/toronto-raptors
+Golden State Warriors|Pacific|nba|gs|golden-state-warriors|Golden State Warriors|http://www.espn.com/nba/team/_/name/gs/golden-state-warriors
+LA Clippers|Pacific|nba|lac|la-clippers|LA Clippers|http://www.espn.com/nba/team/_/name/lac/la-clippers
+Los Angeles Lakers|Pacific|nba|lal|los-angeles-lakers|Los Angeles Lakers|http://www.espn.com/nba/team/_/name/lal/los-angeles-lakers
+Phoenix Suns|Pacific|nba|phx|phoenix-suns|Phoenix Suns|http://www.espn.com/nba/team/_/name/phx/phoenix-suns
+Sacramento Kings|Pacific|nba|sac|sacramento-kings|Sacramento Kings|http://www.espn.com/nba/team/_/name/sac/sacramento-kings
+Chicago Bulls|Central|nba|chi|chicago-bulls|Chicago Bulls|http://www.espn.com/nba/team/_/name/chi/chicago-bulls
+Cleveland Cavaliers|Central|nba|cle|cleveland-cavaliers|Cleveland Cavaliers|http://www.espn.com/nba/team/_/name/cle/cleveland-cavaliers
+Detroit Pistons|Central|nba|det|detroit-pistons|Detroit Pistons|http://www.espn.com/nba/team/_/name/det/detroit-pistons
+Indiana Pacers|Central|nba|ind|indiana-pacers|Indiana Pacers|http://www.espn.com/nba/team/_/name/ind/indiana-pacers
+Milwaukee Bucks|Central|nba|mil|milwaukee-bucks|Milwaukee Bucks|http://www.espn.com/nba/team/_/name/mil/milwaukee-bucks
+Dallas Mavericks|Southwest|nba|dal|dallas-mavericks|Dallas Mavericks|http://www.espn.com/nba/team/_/name/dal/dallas-mavericks
+Houston Rockets|Southwest|nba|hou|houston-rockets|Houston Rockets|http://www.espn.com/nba/team/_/name/hou/houston-rockets
+Memphis Grizzlies|Southwest|nba|mem|memphis-grizzlies|Memphis Grizzlies|http://www.espn.com/nba/team/_/name/mem/memphis-grizzlies
+New Orleans Pelicans|Southwest|nba|no|new-orleans-pelicans|New Orleans Pelicans|http://www.espn.com/nba/team/_/name/no/new-orleans-pelicans
+San Antonio Spurs|Southwest|nba|sa|san-antonio-spurs|San Antonio Spurs|http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs
+Atlanta Hawks|Southeast|nba|atl|atlanta-hawks|Atlanta Hawks|http://www.espn.com/nba/team/_/name/atl/atlanta-hawks
+Charlotte Hornets|Southeast|nba|cha|charlotte-hornets|Charlotte Hornets|http://www.espn.com/nba/team/_/name/cha/charlotte-hornets
+Miami Heat|Southeast|nba|mia|miami-heat|Miami Heat|http://www.espn.com/nba/team/_/name/mia/miami-heat
+Orlando Magic|Southeast|nba|orl|orlando-magic|Orlando Magic|http://www.espn.com/nba/team/_/name/orl/orlando-magic
+Washington Wizards|Southeast|nba|wsh|washington-wizards|Washington Wizards|http://www.espn.com/nba/team/_/name/wsh/washington-wizards
+Denver Nuggets|Northwest|nba|den|denver-nuggets|Denver Nuggets|http://www.espn.com/nba/team/_/name/den/denver-nuggets
+Minnesota Timberwolves|Northwest|nba|min|minnesota-timberwolves|Minnesota Timberwolves|http://www.espn.com/nba/team/_/name/min/minnesota-timberwolves
+Oklahoma City Thunder|Northwest|nba|okc|oklahoma-city-thunder|Oklahoma City Thunder|http://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder
+Portland Trail Blazers|Northwest|nba|por|portland-trail-blazers|Portland Trail Blazers|http://www.espn.com/nba/team/_/name/por/portland-trail-blazers
+Utah Jazz|Northwest|nba|utah|utah-jazz|Utah Jazz|http://www.espn.com/nba/team/_/name/utah/utah-jazz
+Chicago Blackhawks|Central Division|nhl|chi|chicago-blackhawks|Chicago Blackhawks|http://www.espn.com/nhl/team/_/name/chi/chicago-blackhawks
+Colorado Avalanche|Central Division|nhl|col|colorado-avalanche|Colorado Avalanche|http://www.espn.com/nhl/team/_/name/col/colorado-avalanche
+Dallas Stars|Central Division|nhl|dal|dallas-stars|Dallas Stars|http://www.espn.com/nhl/team/_/name/dal/dallas-stars
+Minnesota Wild|Central Division|nhl|min|minnesota-wild|Minnesota Wild|http://www.espn.com/nhl/team/_/name/min/minnesota-wild
+Nashville Predators|Central Division|nhl|nsh|nashville-predators|Nashville Predators|http://www.espn.com/nhl/team/_/name/nsh/nashville-predators
+St. Louis Blues|Central Division|nhl|stl|st-louis-blues|St. Louis Blues|http://www.espn.com/nhl/team/_/name/stl/st-louis-blues
+Winnipeg Jets|Central Division|nhl|wpg|winnipeg-jets|Winnipeg Jets|http://www.espn.com/nhl/team/_/name/wpg/winnipeg-jets
+Anaheim Ducks|Pacific Division|nhl|ana|anaheim-ducks|Anaheim Ducks|http://www.espn.com/nhl/team/_/name/ana/anaheim-ducks
+Arizona Coyotes|Pacific Division|nhl|ari|arizona-coyotes|Arizona Coyotes|http://www.espn.com/nhl/team/_/name/ari/arizona-coyotes
+Calgary Flames|Pacific Division|nhl|cgy|calgary-flames|Calgary Flames|http://www.espn.com/nhl/team/_/name/cgy/calgary-flames
+Edmonton Oilers|Pacific Division|nhl|edm|edmonton-oilers|Edmonton Oilers|http://www.espn.com/nhl/team/_/name/edm/edmonton-oilers
+Los Angeles Kings|Pacific Division|nhl|la|los-angeles-kings|Los Angeles Kings|http://www.espn.com/nhl/team/_/name/la/los-angeles-kings
+San Jose Sharks|Pacific Division|nhl|sj|san-jose-sharks|San Jose Sharks|http://www.espn.com/nhl/team/_/name/sj/san-jose-sharks
+Vancouver Canucks|Pacific Division|nhl|van|vancouver-canucks|Vancouver Canucks|http://www.espn.com/nhl/team/_/name/van/vancouver-canucks
+Vegas Golden Knights|Pacific Division|nhl|vgs|vegas-golden-knights|Vegas Golden Knights|http://www.espn.com/nhl/team/_/name/vgs/vegas-golden-knights
+Boston Bruins|Atlantic Division|nhl|bos|boston-bruins|Boston Bruins|http://www.espn.com/nhl/team/_/name/bos/boston-bruins
+Buffalo Sabres|Atlantic Division|nhl|buf|buffalo-sabres|Buffalo Sabres|http://www.espn.com/nhl/team/_/name/buf/buffalo-sabres
+Detroit Red Wings|Atlantic Division|nhl|det|detroit-red-wings|Detroit Red Wings|http://www.espn.com/nhl/team/_/name/det/detroit-red-wings
+Florida Panthers|Atlantic Division|nhl|fla|florida-panthers|Florida Panthers|http://www.espn.com/nhl/team/_/name/fla/florida-panthers
+Montreal Canadiens|Atlantic Division|nhl|mtl|montreal-canadiens|Montreal Canadiens|http://www.espn.com/nhl/team/_/name/mtl/montreal-canadiens
+Ottawa Senators|Atlantic Division|nhl|ott|ottawa-senators|Ottawa Senators|http://www.espn.com/nhl/team/_/name/ott/ottawa-senators
+Tampa Bay Lightning|Atlantic Division|nhl|tb|tampa-bay-lightning|Tampa Bay Lightning|http://www.espn.com/nhl/team/_/name/tb/tampa-bay-lightning
+Toronto Maple Leafs|Atlantic Division|nhl|tor|toronto-maple-leafs|Toronto Maple Leafs|http://www.espn.com/nhl/team/_/name/tor/toronto-maple-leafs
+Carolina Hurricanes|Metropolitan Division|nhl|car|carolina-hurricanes|Carolina Hurricanes|http://www.espn.com/nhl/team/_/name/car/carolina-hurricanes
+Columbus Blue Jackets|Metropolitan Division|nhl|cbj|columbus-blue-jackets|Columbus Blue Jackets|http://www.espn.com/nhl/team/_/name/cbj/columbus-blue-jackets
+New Jersey Devils|Metropolitan Division|nhl|nj|new-jersey-devils|New Jersey Devils|http://www.espn.com/nhl/team/_/name/nj/new-jersey-devils
+New York Islanders|Metropolitan Division|nhl|nyi|new-york-islanders|New York Islanders|http://www.espn.com/nhl/team/_/name/nyi/new-york-islanders
+New York Rangers|Metropolitan Division|nhl|nyr|new-york-rangers|New York Rangers|http://www.espn.com/nhl/team/_/name/nyr/new-york-rangers
+Philadelphia Flyers|Metropolitan Division|nhl|phi|philadelphia-flyers|Philadelphia Flyers|http://www.espn.com/nhl/team/_/name/phi/philadelphia-flyers
+Pittsburgh Penguins|Metropolitan Division|nhl|pit|pittsburgh-penguins|Pittsburgh Penguins|http://www.espn.com/nhl/team/_/name/pit/pittsburgh-penguins
+Washington Capitals|Metropolitan Division|nhl|wsh|washington-capitals|Washington Capitals|http://www.espn.com/nhl/team/_/name/wsh/washington-capitals
+Dallas Cowboys|NFC East|nfl|dal|dallas-cowboys|Dallas Cowboys|http://www.espn.com/nfl/team/_/name/dal/dallas-cowboys
+New York Giants|NFC East|nfl|nyg|new-york-giants|New York Giants|http://www.espn.com/nfl/team/_/name/nyg/new-york-giants
+Philadelphia Eagles|NFC East|nfl|phi|philadelphia-eagles|Philadelphia Eagles|http://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles
+Washington Redskins|NFC East|nfl|wsh|washington-redskins|Washington Redskins|http://www.espn.com/nfl/team/_/name/wsh/washington-redskins
+Buffalo Bills|AFC East|nfl|buf|buffalo-bills|Buffalo Bills|http://www.espn.com/nfl/team/_/name/buf/buffalo-bills
+Miami Dolphins|AFC East|nfl|mia|miami-dolphins|Miami Dolphins|http://www.espn.com/nfl/team/_/name/mia/miami-dolphins
+New England Patriots|AFC East|nfl|ne|new-england-patriots|New England Patriots|http://www.espn.com/nfl/team/_/name/ne/new-england-patriots
+New York Jets|AFC East|nfl|nyj|new-york-jets|New York Jets|http://www.espn.com/nfl/team/_/name/nyj/new-york-jets
+Arizona Cardinals|NFC West|nfl|ari|arizona-cardinals|Arizona Cardinals|http://www.espn.com/nfl/team/_/name/ari/arizona-cardinals
+Los Angeles Rams|NFC West|nfl|lar|los-angeles-rams|Los Angeles Rams|http://www.espn.com/nfl/team/_/name/lar/los-angeles-rams
+San Francisco 49ers|NFC West|nfl|sf|san-francisco-49ers|San Francisco 49ers|http://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers
+Seattle Seahawks|NFC West|nfl|sea|seattle-seahawks|Seattle Seahawks|http://www.espn.com/nfl/team/_/name/sea/seattle-seahawks
+Denver Broncos|AFC West|nfl|den|denver-broncos|Denver Broncos|http://www.espn.com/nfl/team/_/name/den/denver-broncos
+Kansas City Chiefs|AFC West|nfl|kc|kansas-city-chiefs|Kansas City Chiefs|http://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs
+Los Angeles Chargers|AFC West|nfl|lac|los-angeles-chargers|Los Angeles Chargers|http://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers
+Oakland Raiders|AFC West|nfl|oak|oakland-raiders|Oakland Raiders|http://www.espn.com/nfl/team/_/name/oak/oakland-raiders
+Chicago Bears|NFC North|nfl|chi|chicago-bears|Chicago Bears|http://www.espn.com/nfl/team/_/name/chi/chicago-bears
+Detroit Lions|NFC North|nfl|det|detroit-lions|Detroit Lions|http://www.espn.com/nfl/team/_/name/det/detroit-lions
+Green Bay Packers|NFC North|nfl|gb|green-bay-packers|Green Bay Packers|http://www.espn.com/nfl/team/_/name/gb/green-bay-packers
+Minnesota Vikings|NFC North|nfl|min|minnesota-vikings|Minnesota Vikings|http://www.espn.com/nfl/team/_/name/min/minnesota-vikings
+Baltimore Ravens|AFC North|nfl|bal|baltimore-ravens|Baltimore Ravens|http://www.espn.com/nfl/team/_/name/bal/baltimore-ravens
+Cincinnati Bengals|AFC North|nfl|cin|cincinnati-bengals|Cincinnati Bengals|http://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals
+Cleveland Browns|AFC North|nfl|cle|cleveland-browns|Cleveland Browns|http://www.espn.com/nfl/team/_/name/cle/cleveland-browns
+Pittsburgh Steelers|AFC North|nfl|pit|pittsburgh-steelers|Pittsburgh Steelers|http://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers
+Atlanta Falcons|NFC South|nfl|atl|atlanta-falcons|Atlanta Falcons|http://www.espn.com/nfl/team/_/name/atl/atlanta-falcons
+Carolina Panthers|NFC South|nfl|car|carolina-panthers|Carolina Panthers|http://www.espn.com/nfl/team/_/name/car/carolina-panthers
+New Orleans Saints|NFC South|nfl|no|new-orleans-saints|New Orleans Saints|http://www.espn.com/nfl/team/_/name/no/new-orleans-saints
+Tampa Bay Buccaneers|NFC South|nfl|tb|tampa-bay-buccaneers|Tampa Bay Buccaneers|http://www.espn.com/nfl/team/_/name/tb/tampa-bay-buccaneers
+Houston Texans|AFC South|nfl|hou|houston-texans|Houston Texans|http://www.espn.com/nfl/team/_/name/hou/houston-texans
+Indianapolis Colts|AFC South|nfl|ind|indianapolis-colts|Indianapolis Colts|http://www.espn.com/nfl/team/_/name/ind/indianapolis-colts
+Jacksonville Jaguars|AFC South|nfl|jax|jacksonville-jaguars|Jacksonville Jaguars|http://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars
+Tennessee Titans|AFC South|nfl|ten|tennessee-titans|Tennessee Titans|http://www.espn.com/nfl/team/_/name/ten/tennessee-titans
+Atlanta Dream|Eastern Conference|wnba|atl|atlanta-dream|Atlanta Dream|http://www.espn.com/wnba/team/_/name/atl/atlanta-dream
+Chicago Sky|Eastern Conference|wnba|chi|chicago-sky|Chicago Sky|http://www.espn.com/wnba/team/_/name/chi/chicago-sky
+Connecticut Sun|Eastern Conference|wnba|conn|connecticut-sun|Connecticut Sun|http://www.espn.com/wnba/team/_/name/conn/connecticut-sun
+Indiana Fever|Eastern Conference|wnba|ind|indiana-fever|Indiana Fever|http://www.espn.com/wnba/team/_/name/ind/indiana-fever
+New York Liberty|Eastern Conference|wnba|ny|new-york-liberty|New York Liberty|http://www.espn.com/wnba/team/_/name/ny/new-york-liberty
+Washington Mystics|Eastern Conference|wnba|wsh|washington-mystics|Washington Mystics|http://www.espn.com/wnba/team/_/name/wsh/washington-mystics
+Dallas Wings|Western Conference|wnba|dal|dallas-wings|Dallas Wings|http://www.espn.com/wnba/team/_/name/dal/dallas-wings
+Los Angeles Sparks|Western Conference|wnba|la|los-angeles-sparks|Los Angeles Sparks|http://www.espn.com/wnba/team/_/name/la/los-angeles-sparks
+Minnesota Lynx|Western Conference|wnba|min|minnesota-lynx|Minnesota Lynx|http://www.espn.com/wnba/team/_/name/min/minnesota-lynx
+Phoenix Mercury|Western Conference|wnba|phx|phoenix-mercury|Phoenix Mercury|http://www.espn.com/wnba/team/_/name/phx/phoenix-mercury
+San Antonio Stars|Western Conference|wnba|sa|san-antonio-stars|San Antonio Stars|http://www.espn.com/wnba/team/_/name/sa/san-antonio-stars
+Seattle Storm|Western Conference|wnba|sea|seattle-storm|Seattle Storm|http://www.espn.com/wnba/team/_/name/sea/seattle-storm
+Albany|America East|mens-college-basketball|399|albany-great-danes|Albany|http://www.espn.com/mens-college-basketball/team/_/id/399/albany-great-danes
+Binghamton|America East|mens-college-basketball|2066|binghamton-bearcats|Binghamton|http://www.espn.com/mens-college-basketball/team/_/id/2066/binghamton-bearcats
+Hartford|America East|mens-college-basketball|42|hartford-hawks|Hartford|http://www.espn.com/mens-college-basketball/team/_/id/42/hartford-hawks
+Maine|America East|mens-college-basketball|311|maine-black-bears|Maine|http://www.espn.com/mens-college-basketball/team/_/id/311/maine-black-bears
+UNH|America East|mens-college-basketball|160|new-hampshire-wildcats|UNH|http://www.espn.com/mens-college-basketball/team/_/id/160/new-hampshire-wildcats
+Stony Brook|America East|mens-college-basketball|2619|stony-brook-seawolves|Stony Brook|http://www.espn.com/mens-college-basketball/team/_/id/2619/stony-brook-seawolves
+UMass Lowell|America East|mens-college-basketball|2349|umass-lowell-river-hawks|UMass Lowell|http://www.espn.com/mens-college-basketball/team/_/id/2349/umass-lowell-river-hawks
+UMBC|America East|mens-college-basketball|2378|umbc-retrievers|UMBC|http://www.espn.com/mens-college-basketball/team/_/id/2378/umbc-retrievers
+Vermont|America East|mens-college-basketball|261|vermont-catamounts|Vermont|http://www.espn.com/mens-college-basketball/team/_/id/261/vermont-catamounts
+Cincinnati|American|mens-college-basketball|2132|cincinnati-bearcats|Cincinnati|http://www.espn.com/mens-college-basketball/team/_/id/2132/cincinnati-bearcats
+UConn|American|mens-college-basketball|41|connecticut-huskies|UConn|http://www.espn.com/mens-college-basketball/team/_/id/41/connecticut-huskies
+ECU|American|mens-college-basketball|151|east-carolina-pirates|ECU|http://www.espn.com/mens-college-basketball/team/_/id/151/east-carolina-pirates
+Houston|American|mens-college-basketball|248|houston-cougars|Houston|http://www.espn.com/mens-college-basketball/team/_/id/248/houston-cougars
+Memphis|American|mens-college-basketball|235|memphis-tigers|Memphis|http://www.espn.com/mens-college-basketball/team/_/id/235/memphis-tigers
+SMU|American|mens-college-basketball|2567|smu-mustangs|SMU|http://www.espn.com/mens-college-basketball/team/_/id/2567/smu-mustangs
+USF|American|mens-college-basketball|58|south-florida-bulls|USF|http://www.espn.com/mens-college-basketball/team/_/id/58/south-florida-bulls
+Temple|American|mens-college-basketball|218|temple-owls|Temple|http://www.espn.com/mens-college-basketball/team/_/id/218/temple-owls
+Tulane|American|mens-college-basketball|2655|tulane-green-wave|Tulane|http://www.espn.com/mens-college-basketball/team/_/id/2655/tulane-green-wave
+Tulsa|American|mens-college-basketball|202|tulsa-golden-hurricane|Tulsa|http://www.espn.com/mens-college-basketball/team/_/id/202/tulsa-golden-hurricane
+UCF|American|mens-college-basketball|2116|ucf-knights|UCF|http://www.espn.com/mens-college-basketball/team/_/id/2116/ucf-knights
+Wichita State|American|mens-college-basketball|2724|wichita-state-shockers|Wichita State|http://www.espn.com/mens-college-basketball/team/_/id/2724/wichita-state-shockers
+Davidson|Atlantic 10|mens-college-basketball|2166|davidson-wildcats|Davidson|http://www.espn.com/mens-college-basketball/team/_/id/2166/davidson-wildcats
+Dayton|Atlantic 10|mens-college-basketball|2168|dayton-flyers|Dayton|http://www.espn.com/mens-college-basketball/team/_/id/2168/dayton-flyers
+Duquesne|Atlantic 10|mens-college-basketball|2184|duquesne-dukes|Duquesne|http://www.espn.com/mens-college-basketball/team/_/id/2184/duquesne-dukes
+Fordham|Atlantic 10|mens-college-basketball|2230|fordham-rams|Fordham|http://www.espn.com/mens-college-basketball/team/_/id/2230/fordham-rams
+George Mason|Atlantic 10|mens-college-basketball|2244|george-mason-patriots|George Mason|http://www.espn.com/mens-college-basketball/team/_/id/2244/george-mason-patriots
+G Washington|Atlantic 10|mens-college-basketball|45|george-washington-colonials|G Washington|http://www.espn.com/mens-college-basketball/team/_/id/45/george-washington-colonials
+La Salle|Atlantic 10|mens-college-basketball|2325|la-salle-explorers|La Salle|http://www.espn.com/mens-college-basketball/team/_/id/2325/la-salle-explorers
+UMass|Atlantic 10|mens-college-basketball|113|massachusetts-minutemen|UMass|http://www.espn.com/mens-college-basketball/team/_/id/113/massachusetts-minutemen
+URI|Atlantic 10|mens-college-basketball|227|rhode-island-rams|URI|http://www.espn.com/mens-college-basketball/team/_/id/227/rhode-island-rams
+Richmond|Atlantic 10|mens-college-basketball|257|richmond-spiders|Richmond|http://www.espn.com/mens-college-basketball/team/_/id/257/richmond-spiders
+Saint Joe's|Atlantic 10|mens-college-basketball|2603|saint-joseph's-hawks|Saint Joe's|http://www.espn.com/mens-college-basketball/team/_/id/2603/saint-joseph's-hawks
+Saint Louis|Atlantic 10|mens-college-basketball|139|saint-louis-billikens|Saint Louis|http://www.espn.com/mens-college-basketball/team/_/id/139/saint-louis-billikens
+St Bonaventure|Atlantic 10|mens-college-basketball|179|st.-bonaventure-bonnies|St Bonaventure|http://www.espn.com/mens-college-basketball/team/_/id/179/st.-bonaventure-bonnies
+VCU|Atlantic 10|mens-college-basketball|2670|vcu-rams|VCU|http://www.espn.com/mens-college-basketball/team/_/id/2670/vcu-rams
+Boston College|ACC|mens-college-basketball|103|boston-college-eagles|Boston College|http://www.espn.com/mens-college-basketball/team/_/id/103/boston-college-eagles
+Clemson|ACC|mens-college-basketball|228|clemson-tigers|Clemson|http://www.espn.com/mens-college-basketball/team/_/id/228/clemson-tigers
+Duke|ACC|mens-college-basketball|150|duke-blue-devils|Duke|http://www.espn.com/mens-college-basketball/team/_/id/150/duke-blue-devils
+Florida State|ACC|mens-college-basketball|52|florida-state-seminoles|Florida State|http://www.espn.com/mens-college-basketball/team/_/id/52/florida-state-seminoles
+Georgia Tech|ACC|mens-college-basketball|59|georgia-tech-yellow-jackets|Georgia Tech|http://www.espn.com/mens-college-basketball/team/_/id/59/georgia-tech-yellow-jackets
+Louisville|ACC|mens-college-basketball|97|louisville-cardinals|Louisville|http://www.espn.com/mens-college-basketball/team/_/id/97/louisville-cardinals
+Miami|ACC|mens-college-basketball|2390|miami-hurricanes|Miami|http://www.espn.com/mens-college-basketball/team/_/id/2390/miami-hurricanes
+NC State|ACC|mens-college-basketball|152|nc-state-wolfpack|NC State|http://www.espn.com/mens-college-basketball/team/_/id/152/nc-state-wolfpack
+UNC|ACC|mens-college-basketball|153|north-carolina-tar-heels|UNC|http://www.espn.com/mens-college-basketball/team/_/id/153/north-carolina-tar-heels
+Notre Dame|ACC|mens-college-basketball|87|notre-dame-fighting-irish|Notre Dame|http://www.espn.com/mens-college-basketball/team/_/id/87/notre-dame-fighting-irish
+Pitt|ACC|mens-college-basketball|221|pittsburgh-panthers|Pitt|http://www.espn.com/mens-college-basketball/team/_/id/221/pittsburgh-panthers
+Syracuse|ACC|mens-college-basketball|183|syracuse-orange|Syracuse|http://www.espn.com/mens-college-basketball/team/_/id/183/syracuse-orange
+UVA|ACC|mens-college-basketball|258|virginia-cavaliers|UVA|http://www.espn.com/mens-college-basketball/team/_/id/258/virginia-cavaliers
+Virginia Tech|ACC|mens-college-basketball|259|virginia-tech-hokies|Virginia Tech|http://www.espn.com/mens-college-basketball/team/_/id/259/virginia-tech-hokies
+Wake Forest|ACC|mens-college-basketball|154|wake-forest-demon-deacons|Wake Forest|http://www.espn.com/mens-college-basketball/team/_/id/154/wake-forest-demon-deacons
+FGCU|Atlantic Sun|mens-college-basketball|526|florida-gulf-coast-eagles|FGCU|http://www.espn.com/mens-college-basketball/team/_/id/526/florida-gulf-coast-eagles
+Jacksonville|Atlantic Sun|mens-college-basketball|294|jacksonville-dolphins|Jacksonville|http://www.espn.com/mens-college-basketball/team/_/id/294/jacksonville-dolphins
+Kennesaw State|Atlantic Sun|mens-college-basketball|338|kennesaw-state-owls|Kennesaw State|http://www.espn.com/mens-college-basketball/team/_/id/338/kennesaw-state-owls
+Lipscomb|Atlantic Sun|mens-college-basketball|288|lipscomb-bisons|Lipscomb|http://www.espn.com/mens-college-basketball/team/_/id/288/lipscomb-bisons
+NJIT|Atlantic Sun|mens-college-basketball|2885|njit-highlanders|NJIT|http://www.espn.com/mens-college-basketball/team/_/id/2885/njit-highlanders
+North Florida|Atlantic Sun|mens-college-basketball|2454|north-florida-ospreys|North Florida|http://www.espn.com/mens-college-basketball/team/_/id/2454/north-florida-ospreys
+USC Upstate|Atlantic Sun|mens-college-basketball|2908|south-carolina-upstate-spartans|USC Upstate|http://www.espn.com/mens-college-basketball/team/_/id/2908/south-carolina-upstate-spartans
+Stetson|Atlantic Sun|mens-college-basketball|56|stetson-hatters|Stetson|http://www.espn.com/mens-college-basketball/team/_/id/56/stetson-hatters
+Baylor|Big 12|mens-college-basketball|239|baylor-bears|Baylor|http://www.espn.com/mens-college-basketball/team/_/id/239/baylor-bears
+Iowa State|Big 12|mens-college-basketball|66|iowa-state-cyclones|Iowa State|http://www.espn.com/mens-college-basketball/team/_/id/66/iowa-state-cyclones
+Kansas|Big 12|mens-college-basketball|2305|kansas-jayhawks|Kansas|http://www.espn.com/mens-college-basketball/team/_/id/2305/kansas-jayhawks
+Kansas State|Big 12|mens-college-basketball|2306|kansas-state-wildcats|Kansas State|http://www.espn.com/mens-college-basketball/team/_/id/2306/kansas-state-wildcats
+Oklahoma|Big 12|mens-college-basketball|201|oklahoma-sooners|Oklahoma|http://www.espn.com/mens-college-basketball/team/_/id/201/oklahoma-sooners
+Oklahoma State|Big 12|mens-college-basketball|197|oklahoma-state-cowboys|Oklahoma State|http://www.espn.com/mens-college-basketball/team/_/id/197/oklahoma-state-cowboys
+TCU|Big 12|mens-college-basketball|2628|tcu-horned-frogs|TCU|http://www.espn.com/mens-college-basketball/team/_/id/2628/tcu-horned-frogs
+Texas|Big 12|mens-college-basketball|251|texas-longhorns|Texas|http://www.espn.com/mens-college-basketball/team/_/id/251/texas-longhorns
+Texas Tech|Big 12|mens-college-basketball|2641|texas-tech-red-raiders|Texas Tech|http://www.espn.com/mens-college-basketball/team/_/id/2641/texas-tech-red-raiders
+West Virginia|Big 12|mens-college-basketball|277|west-virginia-mountaineers|West Virginia|http://www.espn.com/mens-college-basketball/team/_/id/277/west-virginia-mountaineers
+Butler|Big East|mens-college-basketball|2086|butler-bulldogs|Butler|http://www.espn.com/mens-college-basketball/team/_/id/2086/butler-bulldogs
+Creighton|Big East|mens-college-basketball|156|creighton-bluejays|Creighton|http://www.espn.com/mens-college-basketball/team/_/id/156/creighton-bluejays
+DePaul|Big East|mens-college-basketball|305|depaul-blue-demons|DePaul|http://www.espn.com/mens-college-basketball/team/_/id/305/depaul-blue-demons
+Georgetown|Big East|mens-college-basketball|46|georgetown-hoyas|Georgetown|http://www.espn.com/mens-college-basketball/team/_/id/46/georgetown-hoyas
+Marquette|Big East|mens-college-basketball|269|marquette-golden-eagles|Marquette|http://www.espn.com/mens-college-basketball/team/_/id/269/marquette-golden-eagles
+Providence|Big East|mens-college-basketball|2507|providence-friars|Providence|http://www.espn.com/mens-college-basketball/team/_/id/2507/providence-friars
+Seton Hall|Big East|mens-college-basketball|2550|seton-hall-pirates|Seton Hall|http://www.espn.com/mens-college-basketball/team/_/id/2550/seton-hall-pirates
+St John's|Big East|mens-college-basketball|2599|st.-john's-red-storm|St John's|http://www.espn.com/mens-college-basketball/team/_/id/2599/st.-john's-red-storm
+Villanova|Big East|mens-college-basketball|222|villanova-wildcats|Villanova|http://www.espn.com/mens-college-basketball/team/_/id/222/villanova-wildcats
+Xavier|Big East|mens-college-basketball|2752|xavier-musketeers|Xavier|http://www.espn.com/mens-college-basketball/team/_/id/2752/xavier-musketeers
+E Washington|Big Sky|mens-college-basketball|331|eastern-washington-eagles|E Washington|http://www.espn.com/mens-college-basketball/team/_/id/331/eastern-washington-eagles
+Idaho|Big Sky|mens-college-basketball|70|idaho-vandals|Idaho|http://www.espn.com/mens-college-basketball/team/_/id/70/idaho-vandals
+Idaho State|Big Sky|mens-college-basketball|304|idaho-state-bengals|Idaho State|http://www.espn.com/mens-college-basketball/team/_/id/304/idaho-state-bengals
+Montana|Big Sky|mens-college-basketball|149|montana-grizzlies|Montana|http://www.espn.com/mens-college-basketball/team/_/id/149/montana-grizzlies
+Montana State|Big Sky|mens-college-basketball|147|montana-state-bobcats|Montana State|http://www.espn.com/mens-college-basketball/team/_/id/147/montana-state-bobcats
+North Dakota|Big Sky|mens-college-basketball|155|north-dakota-fighting-hawks|North Dakota|http://www.espn.com/mens-college-basketball/team/_/id/155/north-dakota-fighting-hawks
+N Arizona|Big Sky|mens-college-basketball|2464|northern-arizona-lumberjacks|N Arizona|http://www.espn.com/mens-college-basketball/team/_/id/2464/northern-arizona-lumberjacks
+N Colorado|Big Sky|mens-college-basketball|2458|northern-colorado-bears|N Colorado|http://www.espn.com/mens-college-basketball/team/_/id/2458/northern-colorado-bears
+Portland State|Big Sky|mens-college-basketball|2502|portland-st-vikings|Portland State|http://www.espn.com/mens-college-basketball/team/_/id/2502/portland-st-vikings
+Sacramento St|Big Sky|mens-college-basketball|16|sacramento-state-hornets|Sacramento St|http://www.espn.com/mens-college-basketball/team/_/id/16/sacramento-state-hornets
+Southern Utah|Big Sky|mens-college-basketball|253|southern-utah-thunderbirds|Southern Utah|http://www.espn.com/mens-college-basketball/team/_/id/253/southern-utah-thunderbirds
+Weber State|Big Sky|mens-college-basketball|2692|weber-state-wildcats|Weber State|http://www.espn.com/mens-college-basketball/team/_/id/2692/weber-state-wildcats
+Campbell|Big South|mens-college-basketball|2097|campbell-fighting-camels|Campbell|http://www.espn.com/mens-college-basketball/team/_/id/2097/campbell-fighting-camels
+Charleston So|Big South|mens-college-basketball|2127|charleston-southern-buccaneers|Charleston So|http://www.espn.com/mens-college-basketball/team/_/id/2127/charleston-southern-buccaneers
+Gardner-Webb|Big South|mens-college-basketball|2241|gardner-webb-bulldogs|Gardner-Webb|http://www.espn.com/mens-college-basketball/team/_/id/2241/gardner-webb-bulldogs
+High Point|Big South|mens-college-basketball|2272|high-point-panthers|High Point|http://www.espn.com/mens-college-basketball/team/_/id/2272/high-point-panthers
+Liberty|Big South|mens-college-basketball|2335|liberty-flames|Liberty|http://www.espn.com/mens-college-basketball/team/_/id/2335/liberty-flames
+Longwood|Big South|mens-college-basketball|2344|longwood-lancers|Longwood|http://www.espn.com/mens-college-basketball/team/_/id/2344/longwood-lancers
+Presbyterian|Big South|mens-college-basketball|2506|presbyterian-blue-hose|Presbyterian|http://www.espn.com/mens-college-basketball/team/_/id/2506/presbyterian-blue-hose
+Radford|Big South|mens-college-basketball|2515|radford-highlanders|Radford|http://www.espn.com/mens-college-basketball/team/_/id/2515/radford-highlanders
+UNC Asheville|Big South|mens-college-basketball|2427|unc-asheville-bulldogs|UNC Asheville|http://www.espn.com/mens-college-basketball/team/_/id/2427/unc-asheville-bulldogs
+Winthrop|Big South|mens-college-basketball|2737|winthrop-eagles|Winthrop|http://www.espn.com/mens-college-basketball/team/_/id/2737/winthrop-eagles
+Illinois|Big Ten|mens-college-basketball|356|illinois-fighting-illini|Illinois|http://www.espn.com/mens-college-basketball/team/_/id/356/illinois-fighting-illini
+Indiana|Big Ten|mens-college-basketball|84|indiana-hoosiers|Indiana|http://www.espn.com/mens-college-basketball/team/_/id/84/indiana-hoosiers
+Iowa|Big Ten|mens-college-basketball|2294|iowa-hawkeyes|Iowa|http://www.espn.com/mens-college-basketball/team/_/id/2294/iowa-hawkeyes
+Maryland|Big Ten|mens-college-basketball|120|maryland-terrapins|Maryland|http://www.espn.com/mens-college-basketball/team/_/id/120/maryland-terrapins
+Michigan|Big Ten|mens-college-basketball|130|michigan-wolverines|Michigan|http://www.espn.com/mens-college-basketball/team/_/id/130/michigan-wolverines
+Michigan State|Big Ten|mens-college-basketball|127|michigan-state-spartans|Michigan State|http://www.espn.com/mens-college-basketball/team/_/id/127/michigan-state-spartans
+Minnesota|Big Ten|mens-college-basketball|135|minnesota-golden-gophers|Minnesota|http://www.espn.com/mens-college-basketball/team/_/id/135/minnesota-golden-gophers
+Nebraska|Big Ten|mens-college-basketball|158|nebraska-cornhuskers|Nebraska|http://www.espn.com/mens-college-basketball/team/_/id/158/nebraska-cornhuskers
+Northwestern|Big Ten|mens-college-basketball|77|northwestern-wildcats|Northwestern|http://www.espn.com/mens-college-basketball/team/_/id/77/northwestern-wildcats
+OSU|Big Ten|mens-college-basketball|194|ohio-state-buckeyes|OSU|http://www.espn.com/mens-college-basketball/team/_/id/194/ohio-state-buckeyes
+Penn State|Big Ten|mens-college-basketball|213|penn-state-nittany-lions|Penn State|http://www.espn.com/mens-college-basketball/team/_/id/213/penn-state-nittany-lions
+Purdue|Big Ten|mens-college-basketball|2509|purdue-boilermakers|Purdue|http://www.espn.com/mens-college-basketball/team/_/id/2509/purdue-boilermakers
+Rutgers|Big Ten|mens-college-basketball|164|rutgers-scarlet-knights|Rutgers|http://www.espn.com/mens-college-basketball/team/_/id/164/rutgers-scarlet-knights
+Wisconsin|Big Ten|mens-college-basketball|275|wisconsin-badgers|Wisconsin|http://www.espn.com/mens-college-basketball/team/_/id/275/wisconsin-badgers
+Cal Poly|Big West|mens-college-basketball|13|cal-poly-mustangs|Cal Poly|http://www.espn.com/mens-college-basketball/team/_/id/13/cal-poly-mustangs
+CSU Fullerton|Big West|mens-college-basketball|2239|cs-fullerton-titans|CSU Fullerton|http://www.espn.com/mens-college-basketball/team/_/id/2239/cs-fullerton-titans
+CSU Northridge|Big West|mens-college-basketball|2463|csu-northridge-matadors|CSU Northridge|http://www.espn.com/mens-college-basketball/team/_/id/2463/csu-northridge-matadors
+Hawai'i|Big West|mens-college-basketball|62|hawai'i-rainbow-warriors|Hawai'i|http://www.espn.com/mens-college-basketball/team/_/id/62/hawai'i-rainbow-warriors
+Long Beach St|Big West|mens-college-basketball|299|long-beach-state-49ers|Long Beach St|http://www.espn.com/mens-college-basketball/team/_/id/299/long-beach-state-49ers
+UC Davis|Big West|mens-college-basketball|302|uc-davis-aggies|UC Davis|http://www.espn.com/mens-college-basketball/team/_/id/302/uc-davis-aggies
+UC Irvine|Big West|mens-college-basketball|300|uc-irvine-anteaters|UC Irvine|http://www.espn.com/mens-college-basketball/team/_/id/300/uc-irvine-anteaters
+UC Riverside|Big West|mens-college-basketball|27|uc-riverside-highlanders|UC Riverside|http://www.espn.com/mens-college-basketball/team/_/id/27/uc-riverside-highlanders
+UCSB|Big West|mens-college-basketball|2540|uc-santa-barbara-gauchos|UCSB|http://www.espn.com/mens-college-basketball/team/_/id/2540/uc-santa-barbara-gauchos
+Charleston|Colonial|mens-college-basketball|232|charleston-cougars|Charleston|http://www.espn.com/mens-college-basketball/team/_/id/232/charleston-cougars
+Delaware|Colonial|mens-college-basketball|48|delaware-blue-hens|Delaware|http://www.espn.com/mens-college-basketball/team/_/id/48/delaware-blue-hens
+Drexel|Colonial|mens-college-basketball|2182|drexel-dragons|Drexel|http://www.espn.com/mens-college-basketball/team/_/id/2182/drexel-dragons
+Elon|Colonial|mens-college-basketball|2210|elon-phoenix|Elon|http://www.espn.com/mens-college-basketball/team/_/id/2210/elon-phoenix
+Hofstra|Colonial|mens-college-basketball|2275|hofstra-pride|Hofstra|http://www.espn.com/mens-college-basketball/team/_/id/2275/hofstra-pride
+JMU|Colonial|mens-college-basketball|256|james-madison-dukes|JMU|http://www.espn.com/mens-college-basketball/team/_/id/256/james-madison-dukes
+Northeastern|Colonial|mens-college-basketball|111|northeastern-huskies|Northeastern|http://www.espn.com/mens-college-basketball/team/_/id/111/northeastern-huskies
+Towson|Colonial|mens-college-basketball|119|towson-towson|Towson|http://www.espn.com/mens-college-basketball/team/_/id/119/towson-towson
+UNC Wilmington|Colonial|mens-college-basketball|350|unc-wilmington-seahawks|UNC Wilmington|http://www.espn.com/mens-college-basketball/team/_/id/350/unc-wilmington-seahawks
+William & Mary|Colonial|mens-college-basketball|2729|william-%26-mary-tribe|William & Mary|http://www.espn.com/mens-college-basketball/team/_/id/2729/william-%26-mary-tribe
+Charlotte|Conference USA|mens-college-basketball|2429|charlotte-49ers|Charlotte|http://www.espn.com/mens-college-basketball/team/_/id/2429/charlotte-49ers
+FAU|Conference USA|mens-college-basketball|2226|florida-atlantic-owls|FAU|http://www.espn.com/mens-college-basketball/team/_/id/2226/florida-atlantic-owls
+FIU|Conference USA|mens-college-basketball|2229|florida-intl-golden-panthers|FIU|http://www.espn.com/mens-college-basketball/team/_/id/2229/florida-intl-golden-panthers
+LA Tech|Conference USA|mens-college-basketball|2348|louisiana-tech-bulldogs|LA Tech|http://www.espn.com/mens-college-basketball/team/_/id/2348/louisiana-tech-bulldogs
+Marshall|Conference USA|mens-college-basketball|276|marshall-thundering-herd|Marshall|http://www.espn.com/mens-college-basketball/team/_/id/276/marshall-thundering-herd
+Mid Tennessee|Conference USA|mens-college-basketball|2393|middle-tennessee-blue-raiders|Mid Tennessee|http://www.espn.com/mens-college-basketball/team/_/id/2393/middle-tennessee-blue-raiders
+North Texas|Conference USA|mens-college-basketball|249|north-texas-mean-green|North Texas|http://www.espn.com/mens-college-basketball/team/_/id/249/north-texas-mean-green
+Old Dominion|Conference USA|mens-college-basketball|295|old-dominion-monarchs|Old Dominion|http://www.espn.com/mens-college-basketball/team/_/id/295/old-dominion-monarchs
+Rice|Conference USA|mens-college-basketball|242|rice-owls|Rice|http://www.espn.com/mens-college-basketball/team/_/id/242/rice-owls
+Southern Miss|Conference USA|mens-college-basketball|2572|southern-miss-golden-eagles|Southern Miss|http://www.espn.com/mens-college-basketball/team/_/id/2572/southern-miss-golden-eagles
+UAB|Conference USA|mens-college-basketball|5|uab-blazers|UAB|http://www.espn.com/mens-college-basketball/team/_/id/5/uab-blazers
+UTSA|Conference USA|mens-college-basketball|2636|ut-san-antonio-roadrunners|UTSA|http://www.espn.com/mens-college-basketball/team/_/id/2636/ut-san-antonio-roadrunners
+UTEP|Conference USA|mens-college-basketball|2638|utep-miners|UTEP|http://www.espn.com/mens-college-basketball/team/_/id/2638/utep-miners
+W Kentucky|Conference USA|mens-college-basketball|98|western-kentucky-hilltoppers|W Kentucky|http://www.espn.com/mens-college-basketball/team/_/id/98/western-kentucky-hilltoppers
+Cleveland State|Horizon|mens-college-basketball|325|cleveland-state-vikings|Cleveland State|http://www.espn.com/mens-college-basketball/team/_/id/325/cleveland-state-vikings
+Detroit Mercy|Horizon|mens-college-basketball|2174|detroit-mercy-titans|Detroit Mercy|http://www.espn.com/mens-college-basketball/team/_/id/2174/detroit-mercy-titans
+Green Bay|Horizon|mens-college-basketball|2739|green-bay-phoenix|Green Bay|http://www.espn.com/mens-college-basketball/team/_/id/2739/green-bay-phoenix
+IUPUI|Horizon|mens-college-basketball|85|iupui-jaguars|IUPUI|http://www.espn.com/mens-college-basketball/team/_/id/85/iupui-jaguars
+Milwaukee|Horizon|mens-college-basketball|270|milwaukee-panthers|Milwaukee|http://www.espn.com/mens-college-basketball/team/_/id/270/milwaukee-panthers
+N Kentucky|Horizon|mens-college-basketball|94|northern-kentucky-norse|N Kentucky|http://www.espn.com/mens-college-basketball/team/_/id/94/northern-kentucky-norse
+Oakland|Horizon|mens-college-basketball|2473|oakland-golden-grizzlies|Oakland|http://www.espn.com/mens-college-basketball/team/_/id/2473/oakland-golden-grizzlies
+UIC|Horizon|mens-college-basketball|82|uic-flames|UIC|http://www.espn.com/mens-college-basketball/team/_/id/82/uic-flames
+Wright State|Horizon|mens-college-basketball|2750|wright-state-raiders|Wright State|http://www.espn.com/mens-college-basketball/team/_/id/2750/wright-state-raiders
+Youngstown St|Horizon|mens-college-basketball|2754|youngstown-state-penguins|Youngstown St|http://www.espn.com/mens-college-basketball/team/_/id/2754/youngstown-state-penguins
+Brown|Ivy|mens-college-basketball|225|brown-bears|Brown|http://www.espn.com/mens-college-basketball/team/_/id/225/brown-bears
+Columbia|Ivy|mens-college-basketball|171|columbia-lions|Columbia|http://www.espn.com/mens-college-basketball/team/_/id/171/columbia-lions
+Cornell|Ivy|mens-college-basketball|172|cornell-big-red|Cornell|http://www.espn.com/mens-college-basketball/team/_/id/172/cornell-big-red
+Dartmouth|Ivy|mens-college-basketball|159|dartmouth-big-green|Dartmouth|http://www.espn.com/mens-college-basketball/team/_/id/159/dartmouth-big-green
+Harvard|Ivy|mens-college-basketball|108|harvard-crimson|Harvard|http://www.espn.com/mens-college-basketball/team/_/id/108/harvard-crimson
+Penn|Ivy|mens-college-basketball|219|pennsylvania-quakers|Penn|http://www.espn.com/mens-college-basketball/team/_/id/219/pennsylvania-quakers
+Princeton|Ivy|mens-college-basketball|163|princeton-tigers|Princeton|http://www.espn.com/mens-college-basketball/team/_/id/163/princeton-tigers
+Yale|Ivy|mens-college-basketball|43|yale-bulldogs|Yale|http://www.espn.com/mens-college-basketball/team/_/id/43/yale-bulldogs
+Canisius|MAAC|mens-college-basketball|2099|canisius-golden-griffins|Canisius|http://www.espn.com/mens-college-basketball/team/_/id/2099/canisius-golden-griffins
+Fairfield|MAAC|mens-college-basketball|2217|fairfield-stags|Fairfield|http://www.espn.com/mens-college-basketball/team/_/id/2217/fairfield-stags
+Iona|MAAC|mens-college-basketball|314|iona-gaels|Iona|http://www.espn.com/mens-college-basketball/team/_/id/314/iona-gaels
+Manhattan|MAAC|mens-college-basketball|2363|manhattan-jaspers|Manhattan|http://www.espn.com/mens-college-basketball/team/_/id/2363/manhattan-jaspers
+Marist|MAAC|mens-college-basketball|2368|marist-red-foxes|Marist|http://www.espn.com/mens-college-basketball/team/_/id/2368/marist-red-foxes
+Monmouth|MAAC|mens-college-basketball|2405|monmouth-hawks|Monmouth|http://www.espn.com/mens-college-basketball/team/_/id/2405/monmouth-hawks
+Niagara|MAAC|mens-college-basketball|315|niagara-purple-eagles|Niagara|http://www.espn.com/mens-college-basketball/team/_/id/315/niagara-purple-eagles
+Quinnipiac|MAAC|mens-college-basketball|2514|quinnipiac-bobcats|Quinnipiac|http://www.espn.com/mens-college-basketball/team/_/id/2514/quinnipiac-bobcats
+Rider|MAAC|mens-college-basketball|2520|rider-broncs|Rider|http://www.espn.com/mens-college-basketball/team/_/id/2520/rider-broncs
+St Peter's|MAAC|mens-college-basketball|2612|saint-peter's-peacocks|St Peter's|http://www.espn.com/mens-college-basketball/team/_/id/2612/saint-peter's-peacocks
+Siena|MAAC|mens-college-basketball|2561|siena-saints|Siena|http://www.espn.com/mens-college-basketball/team/_/id/2561/siena-saints
+Akron|Mid-American|mens-college-basketball|2006|akron-zips|Akron|http://www.espn.com/mens-college-basketball/team/_/id/2006/akron-zips
+Ball State|Mid-American|mens-college-basketball|2050|ball-state-cardinals|Ball State|http://www.espn.com/mens-college-basketball/team/_/id/2050/ball-state-cardinals
+Bowling Green|Mid-American|mens-college-basketball|189|bowling-green-falcons|Bowling Green|http://www.espn.com/mens-college-basketball/team/_/id/189/bowling-green-falcons
+Buffalo|Mid-American|mens-college-basketball|2084|buffalo-bulls|Buffalo|http://www.espn.com/mens-college-basketball/team/_/id/2084/buffalo-bulls
+Cent Michigan|Mid-American|mens-college-basketball|2117|central-michigan-chippewas|Cent Michigan|http://www.espn.com/mens-college-basketball/team/_/id/2117/central-michigan-chippewas
+E Michigan|Mid-American|mens-college-basketball|2199|eastern-michigan-eagles|E Michigan|http://www.espn.com/mens-college-basketball/team/_/id/2199/eastern-michigan-eagles
+Kent State|Mid-American|mens-college-basketball|2309|kent-state-golden-flashes|Kent State|http://www.espn.com/mens-college-basketball/team/_/id/2309/kent-state-golden-flashes
+Miami (OH)|Mid-American|mens-college-basketball|193|miami-(oh)-redhawks|Miami (OH)|http://www.espn.com/mens-college-basketball/team/_/id/193/miami-(oh)-redhawks
+N Illinois|Mid-American|mens-college-basketball|2459|northern-illinois-huskies|N Illinois|http://www.espn.com/mens-college-basketball/team/_/id/2459/northern-illinois-huskies
+Ohio|Mid-American|mens-college-basketball|195|ohio-bobcats|Ohio|http://www.espn.com/mens-college-basketball/team/_/id/195/ohio-bobcats
+Toledo|Mid-American|mens-college-basketball|2649|toledo-rockets|Toledo|http://www.espn.com/mens-college-basketball/team/_/id/2649/toledo-rockets
+W Michigan|Mid-American|mens-college-basketball|2711|western-michigan-broncos|W Michigan|http://www.espn.com/mens-college-basketball/team/_/id/2711/western-michigan-broncos
+Bethune-Cookman|MEAC|mens-college-basketball|2065|bethune-cookman-wildcats|Bethune-Cookman|http://www.espn.com/mens-college-basketball/team/_/id/2065/bethune-cookman-wildcats
+Coppin State|MEAC|mens-college-basketball|2154|coppin-state-eagles|Coppin State|http://www.espn.com/mens-college-basketball/team/_/id/2154/coppin-state-eagles
+Delaware State|MEAC|mens-college-basketball|2169|delaware-state-hornets|Delaware State|http://www.espn.com/mens-college-basketball/team/_/id/2169/delaware-state-hornets
+Florida A&M;|MEAC|mens-college-basketball|50|florida-a%26m-rattlers|Florida A&M;|http://www.espn.com/mens-college-basketball/team/_/id/50/florida-a%26m-rattlers
+Hampton|MEAC|mens-college-basketball|2261|hampton-pirates|Hampton|http://www.espn.com/mens-college-basketball/team/_/id/2261/hampton-pirates
+Howard|MEAC|mens-college-basketball|47|howard-bison|Howard|http://www.espn.com/mens-college-basketball/team/_/id/47/howard-bison
+MD-E Shore|MEAC|mens-college-basketball|2379|maryland-eastern-shore-hawks|MD-E Shore|http://www.espn.com/mens-college-basketball/team/_/id/2379/maryland-eastern-shore-hawks
+Morgan State|MEAC|mens-college-basketball|2415|morgan-state-bears|Morgan State|http://www.espn.com/mens-college-basketball/team/_/id/2415/morgan-state-bears
+Norfolk State|MEAC|mens-college-basketball|2450|norfolk-state-spartans|Norfolk State|http://www.espn.com/mens-college-basketball/team/_/id/2450/norfolk-state-spartans
+NC A&T;|MEAC|mens-college-basketball|2448|north-carolina-a%26t-aggies|NC A&T;|http://www.espn.com/mens-college-basketball/team/_/id/2448/north-carolina-a%26t-aggies
+NC Central|MEAC|mens-college-basketball|2428|north-carolina-central-eagles|NC Central|http://www.espn.com/mens-college-basketball/team/_/id/2428/north-carolina-central-eagles
+Savannah State|MEAC|mens-college-basketball|2542|savannah-state-tigers|Savannah State|http://www.espn.com/mens-college-basketball/team/_/id/2542/savannah-state-tigers
+S Carolina St|MEAC|mens-college-basketball|2569|south-carolina-state-bulldogs|S Carolina St|http://www.espn.com/mens-college-basketball/team/_/id/2569/south-carolina-state-bulldogs
+Bradley|Missouri Valley|mens-college-basketball|71|bradley-braves|Bradley|http://www.espn.com/mens-college-basketball/team/_/id/71/bradley-braves
+Drake|Missouri Valley|mens-college-basketball|2181|drake-bulldogs|Drake|http://www.espn.com/mens-college-basketball/team/_/id/2181/drake-bulldogs
+Evansville|Missouri Valley|mens-college-basketball|339|evansville-purple-aces|Evansville|http://www.espn.com/mens-college-basketball/team/_/id/339/evansville-purple-aces
+Illinois State|Missouri Valley|mens-college-basketball|2287|illinois-state-redbirds|Illinois State|http://www.espn.com/mens-college-basketball/team/_/id/2287/illinois-state-redbirds
+Indiana State|Missouri Valley|mens-college-basketball|282|indiana-state-sycamores|Indiana State|http://www.espn.com/mens-college-basketball/team/_/id/282/indiana-state-sycamores
+Loyola-Chicago|Missouri Valley|mens-college-basketball|2350|loyola-chicago-ramblers|Loyola-Chicago|http://www.espn.com/mens-college-basketball/team/_/id/2350/loyola-chicago-ramblers
+Missouri State|Missouri Valley|mens-college-basketball|2623|missouri-state-bears|Missouri State|http://www.espn.com/mens-college-basketball/team/_/id/2623/missouri-state-bears
+Northern Iowa|Missouri Valley|mens-college-basketball|2460|northern-iowa-panthers|Northern Iowa|http://www.espn.com/mens-college-basketball/team/_/id/2460/northern-iowa-panthers
+S Illinois|Missouri Valley|mens-college-basketball|79|southern-illinois-salukis|S Illinois|http://www.espn.com/mens-college-basketball/team/_/id/79/southern-illinois-salukis
+Valparaiso|Missouri Valley|mens-college-basketball|2674|valparaiso-crusaders|Valparaiso|http://www.espn.com/mens-college-basketball/team/_/id/2674/valparaiso-crusaders
+Air Force|Mountain West|mens-college-basketball|2005|air-force-falcons|Air Force|http://www.espn.com/mens-college-basketball/team/_/id/2005/air-force-falcons
+Boise State|Mountain West|mens-college-basketball|68|boise-state-broncos|Boise State|http://www.espn.com/mens-college-basketball/team/_/id/68/boise-state-broncos
+Colorado State|Mountain West|mens-college-basketball|36|colorado-state-rams|Colorado State|http://www.espn.com/mens-college-basketball/team/_/id/36/colorado-state-rams
+Fresno State|Mountain West|mens-college-basketball|278|fresno-state-bulldogs|Fresno State|http://www.espn.com/mens-college-basketball/team/_/id/278/fresno-state-bulldogs
+Nevada|Mountain West|mens-college-basketball|2440|nevada-wolf-pack|Nevada|http://www.espn.com/mens-college-basketball/team/_/id/2440/nevada-wolf-pack
+New Mexico|Mountain West|mens-college-basketball|167|new-mexico-lobos|New Mexico|http://www.espn.com/mens-college-basketball/team/_/id/167/new-mexico-lobos
+San Diego State|Mountain West|mens-college-basketball|21|san-diego-state-aztecs|San Diego State|http://www.espn.com/mens-college-basketball/team/_/id/21/san-diego-state-aztecs
+San Jose State|Mountain West|mens-college-basketball|23|san-jose-state-spartans|San Jose State|http://www.espn.com/mens-college-basketball/team/_/id/23/san-jose-state-spartans
+UNLV|Mountain West|mens-college-basketball|2439|unlv-rebels|UNLV|http://www.espn.com/mens-college-basketball/team/_/id/2439/unlv-rebels
+Utah State|Mountain West|mens-college-basketball|328|utah-state-aggies|Utah State|http://www.espn.com/mens-college-basketball/team/_/id/328/utah-state-aggies
+Wyoming|Mountain West|mens-college-basketball|2751|wyoming-cowboys|Wyoming|http://www.espn.com/mens-college-basketball/team/_/id/2751/wyoming-cowboys
+Bryant|Northeast|mens-college-basketball|2803|bryant-bulldogs|Bryant|http://www.espn.com/mens-college-basketball/team/_/id/2803/bryant-bulldogs
+Cent Conn St|Northeast|mens-college-basketball|2115|central-connecticut-blue-devils|Cent Conn St|http://www.espn.com/mens-college-basketball/team/_/id/2115/central-connecticut-blue-devils
+Fair Dickinson|Northeast|mens-college-basketball|161|fairleigh-dickinson-knights|Fair Dickinson|http://www.espn.com/mens-college-basketball/team/_/id/161/fairleigh-dickinson-knights
+LIU Brooklyn|Northeast|mens-college-basketball|2341|liu-brooklyn-blackbirds|LIU Brooklyn|http://www.espn.com/mens-college-basketball/team/_/id/2341/liu-brooklyn-blackbirds
+Mt St Mary's|Northeast|mens-college-basketball|116|mt.-st.-mary's-mountaineers|Mt St Mary's|http://www.espn.com/mens-college-basketball/team/_/id/116/mt.-st.-mary's-mountaineers
+Robert Morris|Northeast|mens-college-basketball|2523|robert-morris-colonials|Robert Morris|http://www.espn.com/mens-college-basketball/team/_/id/2523/robert-morris-colonials
+Sacred Heart|Northeast|mens-college-basketball|2529|sacred-heart-pioneers|Sacred Heart|http://www.espn.com/mens-college-basketball/team/_/id/2529/sacred-heart-pioneers
+St Francis (BKN)|Northeast|mens-college-basketball|2597|st.-francis-(bkn)-terriers|St Francis (BKN)|http://www.espn.com/mens-college-basketball/team/_/id/2597/st.-francis-(bkn)-terriers
+St Francis (PA)|Northeast|mens-college-basketball|2598|st.-francis-(pa)-red-flash|St Francis (PA)|http://www.espn.com/mens-college-basketball/team/_/id/2598/st.-francis-(pa)-red-flash
+Wagner|Northeast|mens-college-basketball|2681|wagner-seahawks|Wagner|http://www.espn.com/mens-college-basketball/team/_/id/2681/wagner-seahawks
+Austin Peay|Ohio Valley|mens-college-basketball|2046|austin-peay-governors|Austin Peay|http://www.espn.com/mens-college-basketball/team/_/id/2046/austin-peay-governors
+Belmont|Ohio Valley|mens-college-basketball|2057|belmont-bruins|Belmont|http://www.espn.com/mens-college-basketball/team/_/id/2057/belmont-bruins
+E Illinois|Ohio Valley|mens-college-basketball|2197|eastern-illinois-panthers|E Illinois|http://www.espn.com/mens-college-basketball/team/_/id/2197/eastern-illinois-panthers
+E Kentucky|Ohio Valley|mens-college-basketball|2198|eastern-kentucky-colonels|E Kentucky|http://www.espn.com/mens-college-basketball/team/_/id/2198/eastern-kentucky-colonels
+Jacksonville St|Ohio Valley|mens-college-basketball|55|jacksonville-state-gamecocks|Jacksonville St|http://www.espn.com/mens-college-basketball/team/_/id/55/jacksonville-state-gamecocks
+Morehead State|Ohio Valley|mens-college-basketball|2413|morehead-state-eagles|Morehead State|http://www.espn.com/mens-college-basketball/team/_/id/2413/morehead-state-eagles
+Murray State|Ohio Valley|mens-college-basketball|93|murray-state-racers|Murray State|http://www.espn.com/mens-college-basketball/team/_/id/93/murray-state-racers
+SIUE|Ohio Valley|mens-college-basketball|2565|siu-edwardsville-cougars|SIUE|http://www.espn.com/mens-college-basketball/team/_/id/2565/siu-edwardsville-cougars
+SE Missouri St|Ohio Valley|mens-college-basketball|2546|southeast-missouri-state-redhawks|SE Missouri St|http://www.espn.com/mens-college-basketball/team/_/id/2546/southeast-missouri-state-redhawks
+UT Martin|Ohio Valley|mens-college-basketball|2630|tenn-martin-skyhawks|UT Martin|http://www.espn.com/mens-college-basketball/team/_/id/2630/tenn-martin-skyhawks
+Tennessee St|Ohio Valley|mens-college-basketball|2634|tennessee-state-tigers|Tennessee St|http://www.espn.com/mens-college-basketball/team/_/id/2634/tennessee-state-tigers
+Tenn Tech|Ohio Valley|mens-college-basketball|2635|tennessee-tech-golden-eagles|Tenn Tech|http://www.espn.com/mens-college-basketball/team/_/id/2635/tennessee-tech-golden-eagles
+Arizona|Pac-12|mens-college-basketball|12|arizona-wildcats|Arizona|http://www.espn.com/mens-college-basketball/team/_/id/12/arizona-wildcats
+Arizona State|Pac-12|mens-college-basketball|9|arizona-state-sun-devils|Arizona State|http://www.espn.com/mens-college-basketball/team/_/id/9/arizona-state-sun-devils
+Cal|Pac-12|mens-college-basketball|25|california-golden-bears|Cal|http://www.espn.com/mens-college-basketball/team/_/id/25/california-golden-bears
+Colorado|Pac-12|mens-college-basketball|38|colorado-buffaloes|Colorado|http://www.espn.com/mens-college-basketball/team/_/id/38/colorado-buffaloes
+Oregon|Pac-12|mens-college-basketball|2483|oregon-ducks|Oregon|http://www.espn.com/mens-college-basketball/team/_/id/2483/oregon-ducks
+Oregon State|Pac-12|mens-college-basketball|204|oregon-state-beavers|Oregon State|http://www.espn.com/mens-college-basketball/team/_/id/204/oregon-state-beavers
+Stanford|Pac-12|mens-college-basketball|24|stanford-cardinal|Stanford|http://www.espn.com/mens-college-basketball/team/_/id/24/stanford-cardinal
+UCLA|Pac-12|mens-college-basketball|26|ucla-bruins|UCLA|http://www.espn.com/mens-college-basketball/team/_/id/26/ucla-bruins
+USC|Pac-12|mens-college-basketball|30|usc-trojans|USC|http://www.espn.com/mens-college-basketball/team/_/id/30/usc-trojans
+Utah|Pac-12|mens-college-basketball|254|utah-utes|Utah|http://www.espn.com/mens-college-basketball/team/_/id/254/utah-utes
+Washington|Pac-12|mens-college-basketball|264|washington-huskies|Washington|http://www.espn.com/mens-college-basketball/team/_/id/264/washington-huskies
+Washington St|Pac-12|mens-college-basketball|265|washington-state-cougars|Washington St|http://www.espn.com/mens-college-basketball/team/_/id/265/washington-state-cougars
+American U|Patriot League|mens-college-basketball|44|american-eagles|American U|http://www.espn.com/mens-college-basketball/team/_/id/44/american-eagles
+Army|Patriot League|mens-college-basketball|349|army-black-knights|Army|http://www.espn.com/mens-college-basketball/team/_/id/349/army-black-knights
+Boston U|Patriot League|mens-college-basketball|104|boston-university-terriers|Boston U|http://www.espn.com/mens-college-basketball/team/_/id/104/boston-university-terriers
+Bucknell|Patriot League|mens-college-basketball|2083|bucknell-bison|Bucknell|http://www.espn.com/mens-college-basketball/team/_/id/2083/bucknell-bison
+Colgate|Patriot League|mens-college-basketball|2142|colgate-raiders|Colgate|http://www.espn.com/mens-college-basketball/team/_/id/2142/colgate-raiders
+Holy Cross|Patriot League|mens-college-basketball|107|holy-cross-crusaders|Holy Cross|http://www.espn.com/mens-college-basketball/team/_/id/107/holy-cross-crusaders
+Lafayette|Patriot League|mens-college-basketball|322|lafayette-leopards|Lafayette|http://www.espn.com/mens-college-basketball/team/_/id/322/lafayette-leopards
+Lehigh|Patriot League|mens-college-basketball|2329|lehigh-mountain-hawks|Lehigh|http://www.espn.com/mens-college-basketball/team/_/id/2329/lehigh-mountain-hawks
+Loyola (MD)|Patriot League|mens-college-basketball|2352|loyola-(md)-greyhounds|Loyola (MD)|http://www.espn.com/mens-college-basketball/team/_/id/2352/loyola-(md)-greyhounds
+Navy|Patriot League|mens-college-basketball|2426|navy-midshipmen|Navy|http://www.espn.com/mens-college-basketball/team/_/id/2426/navy-midshipmen
+Alabama|SEC|mens-college-basketball|333|alabama-crimson-tide|Alabama|http://www.espn.com/mens-college-basketball/team/_/id/333/alabama-crimson-tide
+Arkansas|SEC|mens-college-basketball|8|arkansas-razorbacks|Arkansas|http://www.espn.com/mens-college-basketball/team/_/id/8/arkansas-razorbacks
+Auburn|SEC|mens-college-basketball|2|auburn-tigers|Auburn|http://www.espn.com/mens-college-basketball/team/_/id/2/auburn-tigers
+Florida|SEC|mens-college-basketball|57|florida-gators|Florida|http://www.espn.com/mens-college-basketball/team/_/id/57/florida-gators
+Georgia|SEC|mens-college-basketball|61|georgia-bulldogs|Georgia|http://www.espn.com/mens-college-basketball/team/_/id/61/georgia-bulldogs
+Kentucky|SEC|mens-college-basketball|96|kentucky-wildcats|Kentucky|http://www.espn.com/mens-college-basketball/team/_/id/96/kentucky-wildcats
+LSU|SEC|mens-college-basketball|99|lsu-tigers|LSU|http://www.espn.com/mens-college-basketball/team/_/id/99/lsu-tigers
+Miss St|SEC|mens-college-basketball|344|mississippi-state-bulldogs|Miss St|http://www.espn.com/mens-college-basketball/team/_/id/344/mississippi-state-bulldogs
+Missouri|SEC|mens-college-basketball|142|missouri-tigers|Missouri|http://www.espn.com/mens-college-basketball/team/_/id/142/missouri-tigers
+Ole Miss|SEC|mens-college-basketball|145|ole-miss-rebels|Ole Miss|http://www.espn.com/mens-college-basketball/team/_/id/145/ole-miss-rebels
+South Carolina|SEC|mens-college-basketball|2579|south-carolina-gamecocks|South Carolina|http://www.espn.com/mens-college-basketball/team/_/id/2579/south-carolina-gamecocks
+Tennessee|SEC|mens-college-basketball|2633|tennessee-volunteers|Tennessee|http://www.espn.com/mens-college-basketball/team/_/id/2633/tennessee-volunteers
+Texas A&M;|SEC|mens-college-basketball|245|texas-a%26m-aggies|Texas A&M;|http://www.espn.com/mens-college-basketball/team/_/id/245/texas-a%26m-aggies
+Vanderbilt|SEC|mens-college-basketball|238|vanderbilt-commodores|Vanderbilt|http://www.espn.com/mens-college-basketball/team/_/id/238/vanderbilt-commodores
+Chattanooga|Southern|mens-college-basketball|236|chattanooga-mocs|Chattanooga|http://www.espn.com/mens-college-basketball/team/_/id/236/chattanooga-mocs
+ETSU|Southern|mens-college-basketball|2193|east-tennessee-state-buccaneers|ETSU|http://www.espn.com/mens-college-basketball/team/_/id/2193/east-tennessee-state-buccaneers
+Furman|Southern|mens-college-basketball|231|furman-paladins|Furman|http://www.espn.com/mens-college-basketball/team/_/id/231/furman-paladins
+Mercer|Southern|mens-college-basketball|2382|mercer-bears|Mercer|http://www.espn.com/mens-college-basketball/team/_/id/2382/mercer-bears
+Samford|Southern|mens-college-basketball|2535|samford-bulldogs|Samford|http://www.espn.com/mens-college-basketball/team/_/id/2535/samford-bulldogs
+The Citadel|Southern|mens-college-basketball|2643|the-citadel-bulldogs|The Citadel|http://www.espn.com/mens-college-basketball/team/_/id/2643/the-citadel-bulldogs
+UNCG|Southern|mens-college-basketball|2430|unc-greensboro-spartans|UNCG|http://www.espn.com/mens-college-basketball/team/_/id/2430/unc-greensboro-spartans
+VMI|Southern|mens-college-basketball|2678|vmi-keydets|VMI|http://www.espn.com/mens-college-basketball/team/_/id/2678/vmi-keydets
+W Carolina|Southern|mens-college-basketball|2717|western-carolina-catamounts|W Carolina|http://www.espn.com/mens-college-basketball/team/_/id/2717/western-carolina-catamounts
+Wofford|Southern|mens-college-basketball|2747|wofford-terriers|Wofford|http://www.espn.com/mens-college-basketball/team/_/id/2747/wofford-terriers
+Abil Christian|Southland|mens-college-basketball|2000|abilene-christian-wildcats|Abil Christian|http://www.espn.com/mens-college-basketball/team/_/id/2000/abilene-christian-wildcats
+Cent Arkansas|Southland|mens-college-basketball|2110|central-arkansas-bears|Cent Arkansas|http://www.espn.com/mens-college-basketball/team/_/id/2110/central-arkansas-bears
+Houston Baptist|Southland|mens-college-basketball|2277|houston-baptist-huskies|Houston Baptist|http://www.espn.com/mens-college-basketball/team/_/id/2277/houston-baptist-huskies
+Incarnate Word|Southland|mens-college-basketball|2916|incarnate-word-cardinals|Incarnate Word|http://www.espn.com/mens-college-basketball/team/_/id/2916/incarnate-word-cardinals
+Lamar|Southland|mens-college-basketball|2320|lamar-cardinals|Lamar|http://www.espn.com/mens-college-basketball/team/_/id/2320/lamar-cardinals
+McNeese|Southland|mens-college-basketball|2377|mcneese-cowboys|McNeese|http://www.espn.com/mens-college-basketball/team/_/id/2377/mcneese-cowboys
+New Orleans|Southland|mens-college-basketball|2443|new-orleans-privateers|New Orleans|http://www.espn.com/mens-college-basketball/team/_/id/2443/new-orleans-privateers
+Nicholls|Southland|mens-college-basketball|2447|nicholls-colonels|Nicholls|http://www.espn.com/mens-college-basketball/team/_/id/2447/nicholls-colonels
+Northwestern St|Southland|mens-college-basketball|2466|northwestern-state-demons|Northwestern St|http://www.espn.com/mens-college-basketball/team/_/id/2466/northwestern-state-demons
+Sam Houston|Southland|mens-college-basketball|2534|sam-houston-state-bearkats|Sam Houston|http://www.espn.com/mens-college-basketball/team/_/id/2534/sam-houston-state-bearkats
+SE Louisiana|Southland|mens-college-basketball|2545|se-louisiana-lions|SE Louisiana|http://www.espn.com/mens-college-basketball/team/_/id/2545/se-louisiana-lions
+SF Austin|Southland|mens-college-basketball|2617|stephen-f.-austin-lumberjacks|SF Austin|http://www.espn.com/mens-college-basketball/team/_/id/2617/stephen-f.-austin-lumberjacks
+Texas A&M-CC;|Southland|mens-college-basketball|357|texas-a%26m-cc-islanders|Texas A&M-CC;|http://www.espn.com/mens-college-basketball/team/_/id/357/texas-a%26m-cc-islanders
+Alabama A&M;|SWAC|mens-college-basketball|2010|alabama-a%26m-bulldogs|Alabama A&M;|http://www.espn.com/mens-college-basketball/team/_/id/2010/alabama-a%26m-bulldogs
+Alabama State|SWAC|mens-college-basketball|2011|alabama-state-hornets|Alabama State|http://www.espn.com/mens-college-basketball/team/_/id/2011/alabama-state-hornets
+Alcorn State|SWAC|mens-college-basketball|2016|alcorn-state-braves|Alcorn State|http://www.espn.com/mens-college-basketball/team/_/id/2016/alcorn-state-braves
+AR-Pine Bluff|SWAC|mens-college-basketball|2029|arkansas-pine-bluff-golden-lions|AR-Pine Bluff|http://www.espn.com/mens-college-basketball/team/_/id/2029/arkansas-pine-bluff-golden-lions
+Grambling|SWAC|mens-college-basketball|2755|grambling-tigers|Grambling|http://www.espn.com/mens-college-basketball/team/_/id/2755/grambling-tigers
+Jackson State|SWAC|mens-college-basketball|2296|jackson-state-tigers|Jackson State|http://www.espn.com/mens-college-basketball/team/_/id/2296/jackson-state-tigers
+Miss Valley St|SWAC|mens-college-basketball|2400|mississippi-valley-state-delta-devils|Miss Valley St|http://www.espn.com/mens-college-basketball/team/_/id/2400/mississippi-valley-state-delta-devils
+PV A&M;|SWAC|mens-college-basketball|2504|prairie-view-a%26m-panthers|PV A&M;|http://www.espn.com/mens-college-basketball/team/_/id/2504/prairie-view-a%26m-panthers
+Southern|SWAC|mens-college-basketball|2582|southern-jaguars|Southern|http://www.espn.com/mens-college-basketball/team/_/id/2582/southern-jaguars
+Texas Southern|SWAC|mens-college-basketball|2640|texas-southern-tigers|Texas Southern|http://www.espn.com/mens-college-basketball/team/_/id/2640/texas-southern-tigers
+Denver|Summit League|mens-college-basketball|2172|denver-pioneers|Denver|http://www.espn.com/mens-college-basketball/team/_/id/2172/denver-pioneers
+Fort Wayne|Summit League|mens-college-basketball|2870|fort-wayne-mastodons|Fort Wayne|http://www.espn.com/mens-college-basketball/team/_/id/2870/fort-wayne-mastodons
+North Dakota St|Summit League|mens-college-basketball|2449|north-dakota-state-bison|North Dakota St|http://www.espn.com/mens-college-basketball/team/_/id/2449/north-dakota-state-bison
+Omaha|Summit League|mens-college-basketball|2437|omaha-mavericks|Omaha|http://www.espn.com/mens-college-basketball/team/_/id/2437/omaha-mavericks
+Oral Roberts|Summit League|mens-college-basketball|198|oral-roberts-golden-eagles|Oral Roberts|http://www.espn.com/mens-college-basketball/team/_/id/198/oral-roberts-golden-eagles
+South Dakota|Summit League|mens-college-basketball|233|south-dakota-coyotes|South Dakota|http://www.espn.com/mens-college-basketball/team/_/id/233/south-dakota-coyotes
+South Dakota St|Summit League|mens-college-basketball|2571|south-dakota-state-jackrabbits|South Dakota St|http://www.espn.com/mens-college-basketball/team/_/id/2571/south-dakota-state-jackrabbits
+W Illinois|Summit League|mens-college-basketball|2710|western-illinois-leathernecks|W Illinois|http://www.espn.com/mens-college-basketball/team/_/id/2710/western-illinois-leathernecks
+Appalachian St|Sun Belt|mens-college-basketball|2026|appalachian-state-mountaineers|Appalachian St|http://www.espn.com/mens-college-basketball/team/_/id/2026/appalachian-state-mountaineers
+Arkansas State|Sun Belt|mens-college-basketball|2032|arkansas-state-red-wolves|Arkansas State|http://www.espn.com/mens-college-basketball/team/_/id/2032/arkansas-state-red-wolves
+C. Carolina|Sun Belt|mens-college-basketball|324|coastal-carolina-chanticleers|C. Carolina|http://www.espn.com/mens-college-basketball/team/_/id/324/coastal-carolina-chanticleers
+Ga Southern|Sun Belt|mens-college-basketball|290|georgia-southern-eagles|Ga Southern|http://www.espn.com/mens-college-basketball/team/_/id/290/georgia-southern-eagles
+Georgia State|Sun Belt|mens-college-basketball|2247|georgia-state-panthers|Georgia State|http://www.espn.com/mens-college-basketball/team/_/id/2247/georgia-state-panthers
+Little Rock|Sun Belt|mens-college-basketball|2031|little-rock-trojans|Little Rock|http://www.espn.com/mens-college-basketball/team/_/id/2031/little-rock-trojans
+Louisiana|Sun Belt|mens-college-basketball|309|louisiana-ragin'-cajuns|Louisiana|http://www.espn.com/mens-college-basketball/team/_/id/309/louisiana-ragin'-cajuns
+South Alabama|Sun Belt|mens-college-basketball|6|south-alabama-jaguars|South Alabama|http://www.espn.com/mens-college-basketball/team/_/id/6/south-alabama-jaguars
+Texas State|Sun Belt|mens-college-basketball|326|texas-state-bobcats|Texas State|http://www.espn.com/mens-college-basketball/team/_/id/326/texas-state-bobcats
+Troy|Sun Belt|mens-college-basketball|2653|troy-trojans|Troy|http://www.espn.com/mens-college-basketball/team/_/id/2653/troy-trojans
+UL Monroe|Sun Belt|mens-college-basketball|2433|ul-monroe-warhawks|UL Monroe|http://www.espn.com/mens-college-basketball/team/_/id/2433/ul-monroe-warhawks
+UT Arlington|Sun Belt|mens-college-basketball|250|ut-arlington-mavericks|UT Arlington|http://www.espn.com/mens-college-basketball/team/_/id/250/ut-arlington-mavericks
+BYU|West Coast|mens-college-basketball|252|byu-cougars|BYU|http://www.espn.com/mens-college-basketball/team/_/id/252/byu-cougars
+Gonzaga|West Coast|mens-college-basketball|2250|gonzaga-bulldogs|Gonzaga|http://www.espn.com/mens-college-basketball/team/_/id/2250/gonzaga-bulldogs
+Loyola Mary|West Coast|mens-college-basketball|2351|loyola-marymount-lions|Loyola Mary|http://www.espn.com/mens-college-basketball/team/_/id/2351/loyola-marymount-lions
+Pacific|West Coast|mens-college-basketball|279|pacific-tigers|Pacific|http://www.espn.com/mens-college-basketball/team/_/id/279/pacific-tigers
+Pepperdine|West Coast|mens-college-basketball|2492|pepperdine-waves|Pepperdine|http://www.espn.com/mens-college-basketball/team/_/id/2492/pepperdine-waves
+Portland|West Coast|mens-college-basketball|2501|portland-pilots|Portland|http://www.espn.com/mens-college-basketball/team/_/id/2501/portland-pilots
+Saint Mary's|West Coast|mens-college-basketball|2608|saint-mary's-gaels|Saint Mary's|http://www.espn.com/mens-college-basketball/team/_/id/2608/saint-mary's-gaels
+San Diego|West Coast|mens-college-basketball|301|san-diego-toreros|San Diego|http://www.espn.com/mens-college-basketball/team/_/id/301/san-diego-toreros
+San Francisco|West Coast|mens-college-basketball|2539|san-francisco-dons|San Francisco|http://www.espn.com/mens-college-basketball/team/_/id/2539/san-francisco-dons
+Santa Clara|West Coast|mens-college-basketball|2541|santa-clara-broncos|Santa Clara|http://www.espn.com/mens-college-basketball/team/_/id/2541/santa-clara-broncos
+Chicago State|WAC|mens-college-basketball|2130|chicago-state-cougars|Chicago State|http://www.espn.com/mens-college-basketball/team/_/id/2130/chicago-state-cougars
+CSU Bakersfield|WAC|mens-college-basketball|2934|csu-bakersfield-roadrunners|CSU Bakersfield|http://www.espn.com/mens-college-basketball/team/_/id/2934/csu-bakersfield-roadrunners
+Grand Canyon|WAC|mens-college-basketball|2253|grand-canyon-antelopes|Grand Canyon|http://www.espn.com/mens-college-basketball/team/_/id/2253/grand-canyon-antelopes
+New Mexico St|WAC|mens-college-basketball|166|new-mexico-state-aggies|New Mexico St|http://www.espn.com/mens-college-basketball/team/_/id/166/new-mexico-state-aggies
+Seattle|WAC|mens-college-basketball|2547|seattle-redhawks|Seattle|http://www.espn.com/mens-college-basketball/team/_/id/2547/seattle-redhawks
+UMKC|WAC|mens-college-basketball|140|umkc-kangaroos|UMKC|http://www.espn.com/mens-college-basketball/team/_/id/140/umkc-kangaroos
+UT Rio Grande|WAC|mens-college-basketball|292|ut-rio-grande-valley-vaqueros|UT Rio Grande|http://www.espn.com/mens-college-basketball/team/_/id/292/ut-rio-grande-valley-vaqueros
+Utah Valley|WAC|mens-college-basketball|3084|utah-valley-wolverines|Utah Valley|http://www.espn.com/mens-college-basketball/team/_/id/3084/utah-valley-wolverines
+Cincinnati|American Athletic|college-football|2132|cincinnati-bearcats|Cincinnati|http://www.espn.com/college-football/team/_/id/2132/cincinnati-bearcats
+Connecticut|American Athletic|college-football|41|connecticut-huskies|Connecticut|http://www.espn.com/college-football/team/_/id/41/connecticut-huskies
+East Carolina|American Athletic|college-football|151|east-carolina-pirates|East Carolina|http://www.espn.com/college-football/team/_/id/151/east-carolina-pirates
+Houston|American Athletic|college-football|248|houston-cougars|Houston|http://www.espn.com/college-football/team/_/id/248/houston-cougars
+Memphis|American Athletic|college-football|235|memphis-tigers|Memphis|http://www.espn.com/college-football/team/_/id/235/memphis-tigers
+Navy|American Athletic|college-football|2426|navy-midshipmen|Navy|http://www.espn.com/college-football/team/_/id/2426/navy-midshipmen
+SMU|American Athletic|college-football|2567|smu-mustangs|SMU|http://www.espn.com/college-football/team/_/id/2567/smu-mustangs
+South Florida|American Athletic|college-football|58|south-florida-bulls|South Florida|http://www.espn.com/college-football/team/_/id/58/south-florida-bulls
+Temple|American Athletic|college-football|218|temple-owls|Temple|http://www.espn.com/college-football/team/_/id/218/temple-owls
+Tulane|American Athletic|college-football|2655|tulane-green-wave|Tulane|http://www.espn.com/college-football/team/_/id/2655/tulane-green-wave
+Tulsa|American Athletic|college-football|202|tulsa-golden-hurricane|Tulsa|http://www.espn.com/college-football/team/_/id/202/tulsa-golden-hurricane
+UCF|American Athletic|college-football|2116|ucf-knights|UCF|http://www.espn.com/college-football/team/_/id/2116/ucf-knights
+Boston College|ACC|college-football|103|boston-college-eagles|Boston College|http://www.espn.com/college-football/team/_/id/103/boston-college-eagles
+Clemson|ACC|college-football|228|clemson-tigers|Clemson|http://www.espn.com/college-football/team/_/id/228/clemson-tigers
+Duke|ACC|college-football|150|duke-blue-devils|Duke|http://www.espn.com/college-football/team/_/id/150/duke-blue-devils
+Florida State|ACC|college-football|52|florida-state-seminoles|Florida State|http://www.espn.com/college-football/team/_/id/52/florida-state-seminoles
+Georgia Tech|ACC|college-football|59|georgia-tech-yellow-jackets|Georgia Tech|http://www.espn.com/college-football/team/_/id/59/georgia-tech-yellow-jackets
+Louisville|ACC|college-football|97|louisville-cardinals|Louisville|http://www.espn.com/college-football/team/_/id/97/louisville-cardinals
+Miami|ACC|college-football|2390|miami-hurricanes|Miami|http://www.espn.com/college-football/team/_/id/2390/miami-hurricanes
+NC State|ACC|college-football|152|nc-state-wolfpack|NC State|http://www.espn.com/college-football/team/_/id/152/nc-state-wolfpack
+North Carolina|ACC|college-football|153|north-carolina-tar-heels|North Carolina|http://www.espn.com/college-football/team/_/id/153/north-carolina-tar-heels
+Pittsburgh|ACC|college-football|221|pittsburgh-panthers|Pittsburgh|http://www.espn.com/college-football/team/_/id/221/pittsburgh-panthers
+Syracuse|ACC|college-football|183|syracuse-orange|Syracuse|http://www.espn.com/college-football/team/_/id/183/syracuse-orange
+Virginia|ACC|college-football|258|virginia-cavaliers|Virginia|http://www.espn.com/college-football/team/_/id/258/virginia-cavaliers
+Virginia Tech|ACC|college-football|259|virginia-tech-hokies|Virginia Tech|http://www.espn.com/college-football/team/_/id/259/virginia-tech-hokies
+Wake Forest|ACC|college-football|154|wake-forest-demon-deacons|Wake Forest|http://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons
+Baylor|Big 12|college-football|239|baylor-bears|Baylor|http://www.espn.com/college-football/team/_/id/239/baylor-bears
+Iowa State|Big 12|college-football|66|iowa-state-cyclones|Iowa State|http://www.espn.com/college-football/team/_/id/66/iowa-state-cyclones
+Kansas|Big 12|college-football|2305|kansas-jayhawks|Kansas|http://www.espn.com/college-football/team/_/id/2305/kansas-jayhawks
+Kansas State|Big 12|college-football|2306|kansas-state-wildcats|Kansas State|http://www.espn.com/college-football/team/_/id/2306/kansas-state-wildcats
+Oklahoma|Big 12|college-football|201|oklahoma-sooners|Oklahoma|http://www.espn.com/college-football/team/_/id/201/oklahoma-sooners
+Oklahoma State|Big 12|college-football|197|oklahoma-state-cowboys|Oklahoma State|http://www.espn.com/college-football/team/_/id/197/oklahoma-state-cowboys
+TCU|Big 12|college-football|2628|tcu-horned-frogs|TCU|http://www.espn.com/college-football/team/_/id/2628/tcu-horned-frogs
+Texas|Big 12|college-football|251|texas-longhorns|Texas|http://www.espn.com/college-football/team/_/id/251/texas-longhorns
+Texas Tech|Big 12|college-football|2641|texas-tech-red-raiders|Texas Tech|http://www.espn.com/college-football/team/_/id/2641/texas-tech-red-raiders
+West Virginia|Big 12|college-football|277|west-virginia-mountaineers|West Virginia|http://www.espn.com/college-football/team/_/id/277/west-virginia-mountaineers
+Illinois|Big Ten|college-football|356|illinois-fighting-illini|Illinois|http://www.espn.com/college-football/team/_/id/356/illinois-fighting-illini
+Indiana|Big Ten|college-football|84|indiana-hoosiers|Indiana|http://www.espn.com/college-football/team/_/id/84/indiana-hoosiers
+Iowa|Big Ten|college-football|2294|iowa-hawkeyes|Iowa|http://www.espn.com/college-football/team/_/id/2294/iowa-hawkeyes
+Maryland|Big Ten|college-football|120|maryland-terrapins|Maryland|http://www.espn.com/college-football/team/_/id/120/maryland-terrapins
+Michigan|Big Ten|college-football|130|michigan-wolverines|Michigan|http://www.espn.com/college-football/team/_/id/130/michigan-wolverines
+Michigan State|Big Ten|college-football|127|michigan-state-spartans|Michigan State|http://www.espn.com/college-football/team/_/id/127/michigan-state-spartans
+Minnesota|Big Ten|college-football|135|minnesota-golden-gophers|Minnesota|http://www.espn.com/college-football/team/_/id/135/minnesota-golden-gophers
+Nebraska|Big Ten|college-football|158|nebraska-cornhuskers|Nebraska|http://www.espn.com/college-football/team/_/id/158/nebraska-cornhuskers
+Northwestern|Big Ten|college-football|77|northwestern-wildcats|Northwestern|http://www.espn.com/college-football/team/_/id/77/northwestern-wildcats
+Ohio State|Big Ten|college-football|194|ohio-state-buckeyes|Ohio State|http://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes
+Penn State|Big Ten|college-football|213|penn-state-nittany-lions|Penn State|http://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions
+Purdue|Big Ten|college-football|2509|purdue-boilermakers|Purdue|http://www.espn.com/college-football/team/_/id/2509/purdue-boilermakers
+Rutgers|Big Ten|college-football|164|rutgers-scarlet-knights|Rutgers|http://www.espn.com/college-football/team/_/id/164/rutgers-scarlet-knights
+Wisconsin|Big Ten|college-football|275|wisconsin-badgers|Wisconsin|http://www.espn.com/college-football/team/_/id/275/wisconsin-badgers
+Charlotte|Conference USA|college-football|2429|charlotte-49ers|Charlotte|http://www.espn.com/college-football/team/_/id/2429/charlotte-49ers
+Florida Atlantic|Conference USA|college-football|2226|florida-atlantic-owls|Florida Atlantic|http://www.espn.com/college-football/team/_/id/2226/florida-atlantic-owls
+Florida Intl|Conference USA|college-football|2229|florida-intl-golden-panthers|Florida Intl|http://www.espn.com/college-football/team/_/id/2229/florida-intl-golden-panthers
+Louisiana Tech|Conference USA|college-football|2348|louisiana-tech-bulldogs|Louisiana Tech|http://www.espn.com/college-football/team/_/id/2348/louisiana-tech-bulldogs
+Marshall|Conference USA|college-football|276|marshall-thundering-herd|Marshall|http://www.espn.com/college-football/team/_/id/276/marshall-thundering-herd
+Middle Tennessee|Conference USA|college-football|2393|middle-tennessee-blue-raiders|Middle Tennessee|http://www.espn.com/college-football/team/_/id/2393/middle-tennessee-blue-raiders
+North Texas|Conference USA|college-football|249|north-texas-mean-green|North Texas|http://www.espn.com/college-football/team/_/id/249/north-texas-mean-green
+Old Dominion|Conference USA|college-football|295|old-dominion-monarchs|Old Dominion|http://www.espn.com/college-football/team/_/id/295/old-dominion-monarchs
+Rice|Conference USA|college-football|242|rice-owls|Rice|http://www.espn.com/college-football/team/_/id/242/rice-owls
+Southern Mississippi|Conference USA|college-football|2572|southern-mississippi-golden-eagles|Southern Mississippi|http://www.espn.com/college-football/team/_/id/2572/southern-mississippi-golden-eagles
+UAB|Conference USA|college-football|5|uab-blazers|UAB|http://www.espn.com/college-football/team/_/id/5/uab-blazers
+UT San Antonio|Conference USA|college-football|2636|ut-san-antonio-roadrunners|UT San Antonio|http://www.espn.com/college-football/team/_/id/2636/ut-san-antonio-roadrunners
+UTEP|Conference USA|college-football|2638|utep-miners|UTEP|http://www.espn.com/college-football/team/_/id/2638/utep-miners
+Western Kentucky|Conference USA|college-football|98|western-kentucky-hilltoppers|Western Kentucky|http://www.espn.com/college-football/team/_/id/98/western-kentucky-hilltoppers
+Army|FBS Independents|college-football|349|army-black-knights|Army|http://www.espn.com/college-football/team/_/id/349/army-black-knights
+BYU|FBS Independents|college-football|252|byu-cougars|BYU|http://www.espn.com/college-football/team/_/id/252/byu-cougars
+Notre Dame|FBS Independents|college-football|87|notre-dame-fighting-irish|Notre Dame|http://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish
+UMass|FBS Independents|college-football|113|umass-minutemen|UMass|http://www.espn.com/college-football/team/_/id/113/umass-minutemen
+Akron|Mid-American|college-football|2006|akron-zips|Akron|http://www.espn.com/college-football/team/_/id/2006/akron-zips
+Ball State|Mid-American|college-football|2050|ball-state-cardinals|Ball State|http://www.espn.com/college-football/team/_/id/2050/ball-state-cardinals
+Bowling Green|Mid-American|college-football|189|bowling-green-falcons|Bowling Green|http://www.espn.com/college-football/team/_/id/189/bowling-green-falcons
+Buffalo|Mid-American|college-football|2084|buffalo-bulls|Buffalo|http://www.espn.com/college-football/team/_/id/2084/buffalo-bulls
+Central Michigan|Mid-American|college-football|2117|central-michigan-chippewas|Central Michigan|http://www.espn.com/college-football/team/_/id/2117/central-michigan-chippewas
+Eastern Michigan|Mid-American|college-football|2199|eastern-michigan-eagles|Eastern Michigan|http://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles
+Kent State|Mid-American|college-football|2309|kent-state-golden-flashes|Kent State|http://www.espn.com/college-football/team/_/id/2309/kent-state-golden-flashes
+Miami (OH)|Mid-American|college-football|193|miami-(oh)-redhawks|Miami (OH)|http://www.espn.com/college-football/team/_/id/193/miami-(oh)-redhawks
+Northern Illinois|Mid-American|college-football|2459|northern-illinois-huskies|Northern Illinois|http://www.espn.com/college-football/team/_/id/2459/northern-illinois-huskies
+Ohio|Mid-American|college-football|195|ohio-bobcats|Ohio|http://www.espn.com/college-football/team/_/id/195/ohio-bobcats
+Toledo|Mid-American|college-football|2649|toledo-rockets|Toledo|http://www.espn.com/college-football/team/_/id/2649/toledo-rockets
+Western Michigan|Mid-American|college-football|2711|western-michigan-broncos|Western Michigan|http://www.espn.com/college-football/team/_/id/2711/western-michigan-broncos
+Air Force|Mountain West|college-football|2005|air-force-falcons|Air Force|http://www.espn.com/college-football/team/_/id/2005/air-force-falcons
+Boise State|Mountain West|college-football|68|boise-state-broncos|Boise State|http://www.espn.com/college-football/team/_/id/68/boise-state-broncos
+Colorado State|Mountain West|college-football|36|colorado-state-rams|Colorado State|http://www.espn.com/college-football/team/_/id/36/colorado-state-rams
+Fresno State|Mountain West|college-football|278|fresno-state-bulldogs|Fresno State|http://www.espn.com/college-football/team/_/id/278/fresno-state-bulldogs
+Hawai'i|Mountain West|college-football|62|hawai'i-rainbow-warriors|Hawai'i|http://www.espn.com/college-football/team/_/id/62/hawai'i-rainbow-warriors
+Nevada|Mountain West|college-football|2440|nevada-wolf-pack|Nevada|http://www.espn.com/college-football/team/_/id/2440/nevada-wolf-pack
+New Mexico|Mountain West|college-football|167|new-mexico-lobos|New Mexico|http://www.espn.com/college-football/team/_/id/167/new-mexico-lobos
+San Diego State|Mountain West|college-football|21|san-diego-state-aztecs|San Diego State|http://www.espn.com/college-football/team/_/id/21/san-diego-state-aztecs
+San Jose State|Mountain West|college-football|23|san-jose-state-spartans|San Jose State|http://www.espn.com/college-football/team/_/id/23/san-jose-state-spartans
+UNLV|Mountain West|college-football|2439|unlv-rebels|UNLV|http://www.espn.com/college-football/team/_/id/2439/unlv-rebels
+Utah State|Mountain West|college-football|328|utah-state-aggies|Utah State|http://www.espn.com/college-football/team/_/id/328/utah-state-aggies
+Wyoming|Mountain West|college-football|2751|wyoming-cowboys|Wyoming|http://www.espn.com/college-football/team/_/id/2751/wyoming-cowboys
+Arizona|Pac-12|college-football|12|arizona-wildcats|Arizona|http://www.espn.com/college-football/team/_/id/12/arizona-wildcats
+Arizona State|Pac-12|college-football|9|arizona-state-sun-devils|Arizona State|http://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils
+California|Pac-12|college-football|25|california-golden-bears|California|http://www.espn.com/college-football/team/_/id/25/california-golden-bears
+Colorado|Pac-12|college-football|38|colorado-buffaloes|Colorado|http://www.espn.com/college-football/team/_/id/38/colorado-buffaloes
+Oregon|Pac-12|college-football|2483|oregon-ducks|Oregon|http://www.espn.com/college-football/team/_/id/2483/oregon-ducks
+Oregon State|Pac-12|college-football|204|oregon-state-beavers|Oregon State|http://www.espn.com/college-football/team/_/id/204/oregon-state-beavers
+Stanford|Pac-12|college-football|24|stanford-cardinal|Stanford|http://www.espn.com/college-football/team/_/id/24/stanford-cardinal
+UCLA|Pac-12|college-football|26|ucla-bruins|UCLA|http://www.espn.com/college-football/team/_/id/26/ucla-bruins
+USC|Pac-12|college-football|30|usc-trojans|USC|http://www.espn.com/college-football/team/_/id/30/usc-trojans
+Utah|Pac-12|college-football|254|utah-utes|Utah|http://www.espn.com/college-football/team/_/id/254/utah-utes
+Washington|Pac-12|college-football|264|washington-huskies|Washington|http://www.espn.com/college-football/team/_/id/264/washington-huskies
+Washington State|Pac-12|college-football|265|washington-state-cougars|Washington State|http://www.espn.com/college-football/team/_/id/265/washington-state-cougars
+Alabama|SEC|college-football|333|alabama-crimson-tide|Alabama|http://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide
+Arkansas|SEC|college-football|8|arkansas-razorbacks|Arkansas|http://www.espn.com/college-football/team/_/id/8/arkansas-razorbacks
+Auburn|SEC|college-football|2|auburn-tigers|Auburn|http://www.espn.com/college-football/team/_/id/2/auburn-tigers
+Florida|SEC|college-football|57|florida-gators|Florida|http://www.espn.com/college-football/team/_/id/57/florida-gators
+Georgia|SEC|college-football|61|georgia-bulldogs|Georgia|http://www.espn.com/college-football/team/_/id/61/georgia-bulldogs
+Kentucky|SEC|college-football|96|kentucky-wildcats|Kentucky|http://www.espn.com/college-football/team/_/id/96/kentucky-wildcats
+LSU|SEC|college-football|99|lsu-tigers|LSU|http://www.espn.com/college-football/team/_/id/99/lsu-tigers
+Mississippi State|SEC|college-football|344|mississippi-state-bulldogs|Mississippi State|http://www.espn.com/college-football/team/_/id/344/mississippi-state-bulldogs
+Missouri|SEC|college-football|142|missouri-tigers|Missouri|http://www.espn.com/college-football/team/_/id/142/missouri-tigers
+Ole Miss|SEC|college-football|145|ole-miss-rebels|Ole Miss|http://www.espn.com/college-football/team/_/id/145/ole-miss-rebels
+South Carolina|SEC|college-football|2579|south-carolina-gamecocks|South Carolina|http://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks
+Tennessee|SEC|college-football|2633|tennessee-volunteers|Tennessee|http://www.espn.com/college-football/team/_/id/2633/tennessee-volunteers
+Texas A&M;|SEC|college-football|245|texas-a%26m-aggies|Texas A&M;|http://www.espn.com/college-football/team/_/id/245/texas-a%26m-aggies
+Vanderbilt|SEC|college-football|238|vanderbilt-commodores|Vanderbilt|http://www.espn.com/college-football/team/_/id/238/vanderbilt-commodores
+Appalachian State|Sun Belt|college-football|2026|appalachian-state-mountaineers|Appalachian State|http://www.espn.com/college-football/team/_/id/2026/appalachian-state-mountaineers
+Arkansas State|Sun Belt|college-football|2032|arkansas-state-red-wolves|Arkansas State|http://www.espn.com/college-football/team/_/id/2032/arkansas-state-red-wolves
+Coastal Carolina|Sun Belt|college-football|324|coastal-carolina-chanticleers|Coastal Carolina|http://www.espn.com/college-football/team/_/id/324/coastal-carolina-chanticleers
+Georgia Southern|Sun Belt|college-football|290|georgia-southern-eagles|Georgia Southern|http://www.espn.com/college-football/team/_/id/290/georgia-southern-eagles
+Georgia State|Sun Belt|college-football|2247|georgia-state-panthers|Georgia State|http://www.espn.com/college-football/team/_/id/2247/georgia-state-panthers
+Idaho|Sun Belt|college-football|70|idaho-vandals|Idaho|http://www.espn.com/college-football/team/_/id/70/idaho-vandals
+Louisiana|Sun Belt|college-football|309|louisiana-ragin'-cajuns|Louisiana|http://www.espn.com/college-football/team/_/id/309/louisiana-ragin'-cajuns
+Louisiana Monroe|Sun Belt|college-football|2433|louisiana-monroe-warhawks|Louisiana Monroe|http://www.espn.com/college-football/team/_/id/2433/louisiana-monroe-warhawks
+New Mexico State|Sun Belt|college-football|166|new-mexico-state-aggies|New Mexico State|http://www.espn.com/college-football/team/_/id/166/new-mexico-state-aggies
+South Alabama|Sun Belt|college-football|6|south-alabama-jaguars|South Alabama|http://www.espn.com/college-football/team/_/id/6/south-alabama-jaguars
+Texas State|Sun Belt|college-football|326|texas-state-bobcats|Texas State|http://www.espn.com/college-football/team/_/id/326/texas-state-bobcats
+Troy|Sun Belt|college-football|2653|troy-trojans|Troy|http://www.espn.com/college-football/team/_/id/2653/troy-trojans
+Cal Poly|Big Sky|college-football|13|cal-poly-mustangs|Cal Poly|http://www.espn.com/college-football/team/_/id/13/cal-poly-mustangs
+Eastern Washington|Big Sky|college-football|331|eastern-washington-eagles|Eastern Washington|http://www.espn.com/college-football/team/_/id/331/eastern-washington-eagles
+Idaho State|Big Sky|college-football|304|idaho-state-bengals|Idaho State|http://www.espn.com/college-football/team/_/id/304/idaho-state-bengals
+Montana|Big Sky|college-football|149|montana-grizzlies|Montana|http://www.espn.com/college-football/team/_/id/149/montana-grizzlies
+Montana State|Big Sky|college-football|147|montana-state-bobcats|Montana State|http://www.espn.com/college-football/team/_/id/147/montana-state-bobcats
+North Dakota|Big Sky|college-football|155|north-dakota-fighting-hawks|North Dakota|http://www.espn.com/college-football/team/_/id/155/north-dakota-fighting-hawks
+Northern Arizona|Big Sky|college-football|2464|northern-arizona-lumberjacks|Northern Arizona|http://www.espn.com/college-football/team/_/id/2464/northern-arizona-lumberjacks
+Northern Colorado|Big Sky|college-football|2458|northern-colorado-bears|Northern Colorado|http://www.espn.com/college-football/team/_/id/2458/northern-colorado-bears
+Portland State|Big Sky|college-football|2502|portland-state-vikings|Portland State|http://www.espn.com/college-football/team/_/id/2502/portland-state-vikings
+Sacramento State|Big Sky|college-football|16|sacramento-state-hornets|Sacramento State|http://www.espn.com/college-football/team/_/id/16/sacramento-state-hornets
+Southern Utah|Big Sky|college-football|253|southern-utah-thunderbirds|Southern Utah|http://www.espn.com/college-football/team/_/id/253/southern-utah-thunderbirds
+UC Davis|Big Sky|college-football|302|uc-davis-aggies|UC Davis|http://www.espn.com/college-football/team/_/id/302/uc-davis-aggies
+Weber State|Big Sky|college-football|2692|weber-state-wildcats|Weber State|http://www.espn.com/college-football/team/_/id/2692/weber-state-wildcats
+Charleston Southern|Big South|college-football|2127|charleston-southern-buccaneers|Charleston Southern|http://www.espn.com/college-football/team/_/id/2127/charleston-southern-buccaneers
+Gardner-Webb|Big South|college-football|2241|gardner-webb-bulldogs|Gardner-Webb|http://www.espn.com/college-football/team/_/id/2241/gardner-webb-bulldogs
+Kennesaw State|Big South|college-football|338|kennesaw-state-owls|Kennesaw State|http://www.espn.com/college-football/team/_/id/338/kennesaw-state-owls
+Liberty|Big South|college-football|2335|liberty-flames|Liberty|http://www.espn.com/college-football/team/_/id/2335/liberty-flames
+Monmouth|Big South|college-football|2405|monmouth-hawks|Monmouth|http://www.espn.com/college-football/team/_/id/2405/monmouth-hawks
+Presbyterian College|Big South|college-football|2506|presbyterian-college-blue-hose|Presbyterian College|http://www.espn.com/college-football/team/_/id/2506/presbyterian-college-blue-hose
+Albany|CAA|college-football|399|albany-great-danes|Albany|http://www.espn.com/college-football/team/_/id/399/albany-great-danes
+Delaware|CAA|college-football|48|delaware-blue-hens|Delaware|http://www.espn.com/college-football/team/_/id/48/delaware-blue-hens
+Elon|CAA|college-football|2210|elon-phoenix|Elon|http://www.espn.com/college-football/team/_/id/2210/elon-phoenix
+James Madison|CAA|college-football|256|james-madison-dukes|James Madison|http://www.espn.com/college-football/team/_/id/256/james-madison-dukes
+Maine|CAA|college-football|311|maine-black-bears|Maine|http://www.espn.com/college-football/team/_/id/311/maine-black-bears
+New Hampshire|CAA|college-football|160|new-hampshire-wildcats|New Hampshire|http://www.espn.com/college-football/team/_/id/160/new-hampshire-wildcats
+Rhode Island|CAA|college-football|227|rhode-island-rams|Rhode Island|http://www.espn.com/college-football/team/_/id/227/rhode-island-rams
+Richmond|CAA|college-football|257|richmond-spiders|Richmond|http://www.espn.com/college-football/team/_/id/257/richmond-spiders
+Stony Brook|CAA|college-football|2619|stony-brook-seawolves|Stony Brook|http://www.espn.com/college-football/team/_/id/2619/stony-brook-seawolves
+Towson|CAA|college-football|119|towson-tigers|Towson|http://www.espn.com/college-football/team/_/id/119/towson-tigers
+Villanova|CAA|college-football|222|villanova-wildcats|Villanova|http://www.espn.com/college-football/team/_/id/222/villanova-wildcats
+William & Mary|CAA|college-football|2729|william-%26-mary-tribe|William & Mary|http://www.espn.com/college-football/team/_/id/2729/william-%26-mary-tribe
+Brown|Ivy|college-football|225|brown-bears|Brown|http://www.espn.com/college-football/team/_/id/225/brown-bears
+Columbia|Ivy|college-football|171|columbia-lions|Columbia|http://www.espn.com/college-football/team/_/id/171/columbia-lions
+Cornell|Ivy|college-football|172|cornell-big-red|Cornell|http://www.espn.com/college-football/team/_/id/172/cornell-big-red
+Dartmouth|Ivy|college-football|159|dartmouth-big-green|Dartmouth|http://www.espn.com/college-football/team/_/id/159/dartmouth-big-green
+Harvard|Ivy|college-football|108|harvard-crimson|Harvard|http://www.espn.com/college-football/team/_/id/108/harvard-crimson
+Pennsylvania|Ivy|college-football|219|pennsylvania-quakers|Pennsylvania|http://www.espn.com/college-football/team/_/id/219/pennsylvania-quakers
+Princeton|Ivy|college-football|163|princeton-tigers|Princeton|http://www.espn.com/college-football/team/_/id/163/princeton-tigers
+Yale|Ivy|college-football|43|yale-bulldogs|Yale|http://www.espn.com/college-football/team/_/id/43/yale-bulldogs
+Bethune-Cookman|MEAC|college-football|2065|bethune-cookman-wildcats|Bethune-Cookman|http://www.espn.com/college-football/team/_/id/2065/bethune-cookman-wildcats
+Delaware State|MEAC|college-football|2169|delaware-state-hornets|Delaware State|http://www.espn.com/college-football/team/_/id/2169/delaware-state-hornets
+Florida A&M;|MEAC|college-football|50|florida-a%26m-rattlers|Florida A&M;|http://www.espn.com/college-football/team/_/id/50/florida-a%26m-rattlers
+Hampton|MEAC|college-football|2261|hampton-pirates|Hampton|http://www.espn.com/college-football/team/_/id/2261/hampton-pirates
+Howard|MEAC|college-football|47|howard-bison|Howard|http://www.espn.com/college-football/team/_/id/47/howard-bison
+Morgan State|MEAC|college-football|2415|morgan-state-bears|Morgan State|http://www.espn.com/college-football/team/_/id/2415/morgan-state-bears
+Norfolk State|MEAC|college-football|2450|norfolk-state-spartans|Norfolk State|http://www.espn.com/college-football/team/_/id/2450/norfolk-state-spartans
+North Carolina A&T;|MEAC|college-football|2448|north-carolina-a%26t-aggies|North Carolina A&T;|http://www.espn.com/college-football/team/_/id/2448/north-carolina-a%26t-aggies
+North Carolina Central|MEAC|college-football|2428|north-carolina-central-eagles|North Carolina Central|http://www.espn.com/college-football/team/_/id/2428/north-carolina-central-eagles
+Savannah State|MEAC|college-football|2542|savannah-state-tigers|Savannah State|http://www.espn.com/college-football/team/_/id/2542/savannah-state-tigers
+South Carolina State|MEAC|college-football|2569|south-carolina-state-bulldogs|South Carolina State|http://www.espn.com/college-football/team/_/id/2569/south-carolina-state-bulldogs
+Illinois State|Missouri Valley|college-football|2287|illinois-state-redbirds|Illinois State|http://www.espn.com/college-football/team/_/id/2287/illinois-state-redbirds
+Indiana State|Missouri Valley|college-football|282|indiana-state-sycamores|Indiana State|http://www.espn.com/college-football/team/_/id/282/indiana-state-sycamores
+Missouri State|Missouri Valley|college-football|2623|missouri-state-bears|Missouri State|http://www.espn.com/college-football/team/_/id/2623/missouri-state-bears
+North Dakota State|Missouri Valley|college-football|2449|north-dakota-state-bison|North Dakota State|http://www.espn.com/college-football/team/_/id/2449/north-dakota-state-bison
+Northern Iowa|Missouri Valley|college-football|2460|northern-iowa-panthers|Northern Iowa|http://www.espn.com/college-football/team/_/id/2460/northern-iowa-panthers
+South Dakota|Missouri Valley|college-football|233|south-dakota-coyotes|South Dakota|http://www.espn.com/college-football/team/_/id/233/south-dakota-coyotes
+South Dakota State|Missouri Valley|college-football|2571|south-dakota-state-jackrabbits|South Dakota State|http://www.espn.com/college-football/team/_/id/2571/south-dakota-state-jackrabbits
+Southern Illinois|Missouri Valley|college-football|79|southern-illinois-salukis|Southern Illinois|http://www.espn.com/college-football/team/_/id/79/southern-illinois-salukis
+Western Illinois|Missouri Valley|college-football|2710|western-illinois-leathernecks|Western Illinois|http://www.espn.com/college-football/team/_/id/2710/western-illinois-leathernecks
+Youngstown State|Missouri Valley|college-football|2754|youngstown-state-penguins|Youngstown State|http://www.espn.com/college-football/team/_/id/2754/youngstown-state-penguins
+Bryant|Northeast|college-football|2803|bryant-bulldogs|Bryant|http://www.espn.com/college-football/team/_/id/2803/bryant-bulldogs
+Central Connecticut|Northeast|college-football|2115|central-connecticut-blue-devils|Central Connecticut|http://www.espn.com/college-football/team/_/id/2115/central-connecticut-blue-devils
+Duquesne|Northeast|college-football|2184|duquesne-dukes|Duquesne|http://www.espn.com/college-football/team/_/id/2184/duquesne-dukes
+Robert Morris|Northeast|college-football|2523|robert-morris-colonials|Robert Morris|http://www.espn.com/college-football/team/_/id/2523/robert-morris-colonials
+Sacred Heart|Northeast|college-football|2529|sacred-heart-pioneers|Sacred Heart|http://www.espn.com/college-football/team/_/id/2529/sacred-heart-pioneers
+St Francis (PA)|Northeast|college-football|2598|st-francis-(pa)-red-flash|St Francis (PA)|http://www.espn.com/college-football/team/_/id/2598/st-francis-(pa)-red-flash
+Wagner|Northeast|college-football|2681|wagner-seahawks|Wagner|http://www.espn.com/college-football/team/_/id/2681/wagner-seahawks
+Austin Peay|Ohio Valley|college-football|2046|austin-peay-governors|Austin Peay|http://www.espn.com/college-football/team/_/id/2046/austin-peay-governors
+Eastern Illinois|Ohio Valley|college-football|2197|eastern-illinois-panthers|Eastern Illinois|http://www.espn.com/college-football/team/_/id/2197/eastern-illinois-panthers
+Eastern Kentucky|Ohio Valley|college-football|2198|eastern-kentucky-colonels|Eastern Kentucky|http://www.espn.com/college-football/team/_/id/2198/eastern-kentucky-colonels
+Jacksonville State|Ohio Valley|college-football|55|jacksonville-state-gamecocks|Jacksonville State|http://www.espn.com/college-football/team/_/id/55/jacksonville-state-gamecocks
+Murray State|Ohio Valley|college-football|93|murray-state-racers|Murray State|http://www.espn.com/college-football/team/_/id/93/murray-state-racers
+Southeast Missouri State|Ohio Valley|college-football|2546|southeast-missouri-state-redhawks|Southeast Missouri State|http://www.espn.com/college-football/team/_/id/2546/southeast-missouri-state-redhawks
+Tennessee State|Ohio Valley|college-football|2634|tennessee-state-tigers|Tennessee State|http://www.espn.com/college-football/team/_/id/2634/tennessee-state-tigers
+Tennessee Tech|Ohio Valley|college-football|2635|tennessee-tech-golden-eagles|Tennessee Tech|http://www.espn.com/college-football/team/_/id/2635/tennessee-tech-golden-eagles
+UT Martin|Ohio Valley|college-football|2630|ut-martin-skyhawks|UT Martin|http://www.espn.com/college-football/team/_/id/2630/ut-martin-skyhawks
+Bucknell|Patriot League|college-football|2083|bucknell-bison|Bucknell|http://www.espn.com/college-football/team/_/id/2083/bucknell-bison
+Colgate|Patriot League|college-football|2142|colgate-raiders|Colgate|http://www.espn.com/college-football/team/_/id/2142/colgate-raiders
+Fordham|Patriot League|college-football|2230|fordham-rams|Fordham|http://www.espn.com/college-football/team/_/id/2230/fordham-rams
+Georgetown|Patriot League|college-football|46|georgetown-hoyas|Georgetown|http://www.espn.com/college-football/team/_/id/46/georgetown-hoyas
+Holy Cross|Patriot League|college-football|107|holy-cross-crusaders|Holy Cross|http://www.espn.com/college-football/team/_/id/107/holy-cross-crusaders
+Lafayette|Patriot League|college-football|322|lafayette-leopards|Lafayette|http://www.espn.com/college-football/team/_/id/322/lafayette-leopards
+Lehigh|Patriot League|college-football|2329|lehigh-mountain-hawks|Lehigh|http://www.espn.com/college-football/team/_/id/2329/lehigh-mountain-hawks
+Butler|Pioneer|college-football|2086|butler-bulldogs|Butler|http://www.espn.com/college-football/team/_/id/2086/butler-bulldogs
+Campbell|Pioneer|college-football|2097|campbell-camels|Campbell|http://www.espn.com/college-football/team/_/id/2097/campbell-camels
+Davidson|Pioneer|college-football|2166|davidson-wildcats|Davidson|http://www.espn.com/college-football/team/_/id/2166/davidson-wildcats
+Dayton|Pioneer|college-football|2168|dayton-flyers|Dayton|http://www.espn.com/college-football/team/_/id/2168/dayton-flyers
+Drake|Pioneer|college-football|2181|drake-bulldogs|Drake|http://www.espn.com/college-football/team/_/id/2181/drake-bulldogs
+Jacksonville|Pioneer|college-football|294|jacksonville-dolphins|Jacksonville|http://www.espn.com/college-football/team/_/id/294/jacksonville-dolphins
+Marist|Pioneer|college-football|2368|marist-red-foxes|Marist|http://www.espn.com/college-football/team/_/id/2368/marist-red-foxes
+Morehead State|Pioneer|college-football|2413|morehead-state-eagles|Morehead State|http://www.espn.com/college-football/team/_/id/2413/morehead-state-eagles
+San Diego|Pioneer|college-football|301|san-diego-toreros|San Diego|http://www.espn.com/college-football/team/_/id/301/san-diego-toreros
+Stetson|Pioneer|college-football|56|stetson-hatters|Stetson|http://www.espn.com/college-football/team/_/id/56/stetson-hatters
+Valparaiso|Pioneer|college-football|2674|valparaiso-crusaders|Valparaiso|http://www.espn.com/college-football/team/_/id/2674/valparaiso-crusaders
+Chattanooga|Southern|college-football|236|chattanooga-mocs|Chattanooga|http://www.espn.com/college-football/team/_/id/236/chattanooga-mocs
+East Tennessee State|Southern|college-football|2193|east-tennessee-state-buccaneers|East Tennessee State|http://www.espn.com/college-football/team/_/id/2193/east-tennessee-state-buccaneers
+Furman|Southern|college-football|231|furman-paladins|Furman|http://www.espn.com/college-football/team/_/id/231/furman-paladins
+Mercer|Southern|college-football|2382|mercer-bears|Mercer|http://www.espn.com/college-football/team/_/id/2382/mercer-bears
+Samford|Southern|college-football|2535|samford-bulldogs|Samford|http://www.espn.com/college-football/team/_/id/2535/samford-bulldogs
+The Citadel|Southern|college-football|2643|the-citadel-bulldogs|The Citadel|http://www.espn.com/college-football/team/_/id/2643/the-citadel-bulldogs
+VMI|Southern|college-football|2678|vmi-keydets|VMI|http://www.espn.com/college-football/team/_/id/2678/vmi-keydets
+Western Carolina|Southern|college-football|2717|western-carolina-catamounts|Western Carolina|http://www.espn.com/college-football/team/_/id/2717/western-carolina-catamounts
+Wofford|Southern|college-football|2747|wofford-terriers|Wofford|http://www.espn.com/college-football/team/_/id/2747/wofford-terriers
+Abilene Christian|Southland|college-football|2000|abilene-christian-wildcats|Abilene Christian|http://www.espn.com/college-football/team/_/id/2000/abilene-christian-wildcats
+Central Arkansas|Southland|college-football|2110|central-arkansas-bears|Central Arkansas|http://www.espn.com/college-football/team/_/id/2110/central-arkansas-bears
+Houston Baptist|Southland|college-football|2277|houston-baptist-huskies|Houston Baptist|http://www.espn.com/college-football/team/_/id/2277/houston-baptist-huskies
+Incarnate Word|Southland|college-football|2916|incarnate-word-cardinals|Incarnate Word|http://www.espn.com/college-football/team/_/id/2916/incarnate-word-cardinals
+Lamar|Southland|college-football|2320|lamar-cardinals|Lamar|http://www.espn.com/college-football/team/_/id/2320/lamar-cardinals
+McNeese|Southland|college-football|2377|mcneese-cowboys|McNeese|http://www.espn.com/college-football/team/_/id/2377/mcneese-cowboys
+Nicholls|Southland|college-football|2447|nicholls-colonels|Nicholls|http://www.espn.com/college-football/team/_/id/2447/nicholls-colonels
+Northwestern State|Southland|college-football|2466|northwestern-state-demons|Northwestern State|http://www.espn.com/college-football/team/_/id/2466/northwestern-state-demons
+Sam Houston State|Southland|college-football|2534|sam-houston-state-bearkats|Sam Houston State|http://www.espn.com/college-football/team/_/id/2534/sam-houston-state-bearkats
+Southeastern Louisiana|Southland|college-football|2545|southeastern-louisiana-lions|Southeastern Louisiana|http://www.espn.com/college-football/team/_/id/2545/southeastern-louisiana-lions
+Stephen F. Austin|Southland|college-football|2617|stephen-f.-austin-lumberjacks|Stephen F. Austin|http://www.espn.com/college-football/team/_/id/2617/stephen-f.-austin-lumberjacks
+Alabama A&M;|SWAC|college-football|2010|alabama-a%26m-bulldogs|Alabama A&M;|http://www.espn.com/college-football/team/_/id/2010/alabama-a%26m-bulldogs
+Alabama State|SWAC|college-football|2011|alabama-state-hornets|Alabama State|http://www.espn.com/college-football/team/_/id/2011/alabama-state-hornets
+Alcorn State|SWAC|college-football|2016|alcorn-state-braves|Alcorn State|http://www.espn.com/college-football/team/_/id/2016/alcorn-state-braves
+Arkansas-Pine Bluff|SWAC|college-football|2029|arkansas-pine-bluff-golden-lions|Arkansas-Pine Bluff|http://www.espn.com/college-football/team/_/id/2029/arkansas-pine-bluff-golden-lions
+Grambling|SWAC|college-football|2755|grambling-tigers|Grambling|http://www.espn.com/college-football/team/_/id/2755/grambling-tigers
+Jackson State|SWAC|college-football|2296|jackson-state-tigers|Jackson State|http://www.espn.com/college-football/team/_/id/2296/jackson-state-tigers
+Mississippi Valley State|SWAC|college-football|2400|mississippi-valley-state-delta-devils|Mississippi Valley State|http://www.espn.com/college-football/team/_/id/2400/mississippi-valley-state-delta-devils
+Prairie View|SWAC|college-football|2504|prairie-view-panthers|Prairie View|http://www.espn.com/college-football/team/_/id/2504/prairie-view-panthers
+Southern|SWAC|college-football|2582|southern-jaguars|Southern|http://www.espn.com/college-football/team/_/id/2582/southern-jaguars
+Texas Southern|SWAC|college-football|2640|texas-southern-tigers|Texas Southern|http://www.espn.com/college-football/team/_/id/2640/texas-southern-tigers

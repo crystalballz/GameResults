@@ -1,0 +1,741 @@
+TEAM_NAME|TEAM|DIVISION|LEAGUE|PREFIX_2
+Angels|Los Angeles Angels|AL West|mlb|los-angeles-angels
+Astros|Houston Astros|AL West|mlb|houston-astros
+Athletics|Oakland Athletics|AL West|mlb|oakland-athletics
+Blue Jays|Toronto Blue Jays|AL East|mlb|toronto-blue-jays
+Braves|Atlanta Braves|NL East|mlb|atlanta-braves
+Brewers|Milwaukee Brewers|NL Central|mlb|milwaukee-brewers
+Cardinals|St. Louis Cardinals|NL Central|mlb|st.-louis-cardinals
+Cubs|Chicago Cubs|NL Central|mlb|chicago-cubs
+Diamondbacks|Arizona Diamondbacks|NL West|mlb|arizona-diamondbacks
+Dodgers|Los Angeles Dodgers|NL West|mlb|los-angeles-dodgers
+Giants|San Francisco Giants|NL West|mlb|san-francisco-giants
+Indians|Cleveland Indians|AL Central|mlb|cleveland-indians
+Mariners|Seattle Mariners|AL West|mlb|seattle-mariners
+Marlins|Miami Marlins|NL East|mlb|miami-marlins
+Mets|New York Mets|NL East|mlb|new-york-mets
+Nationals|Washington Nationals|NL East|mlb|washington-nationals
+Orioles|Baltimore Orioles|AL East|mlb|baltimore-orioles
+Padres|San Diego Padres|NL West|mlb|san-diego-padres
+Phillies|Philadelphia Phillies|NL East|mlb|philadelphia-phillies
+Pirates|Pittsburgh Pirates|NL Central|mlb|pittsburgh-pirates
+Rangers|Texas Rangers|AL West|mlb|texas-rangers
+Rays|Tampa Bay Rays|AL East|mlb|tampa-bay-rays
+Red Sox|Boston Red Sox|AL East|mlb|boston-red-sox
+Reds|Cincinnati Reds|NL Central|mlb|cincinnati-reds
+Rockies|Colorado Rockies|NL West|mlb|colorado-rockies
+Royals|Kansas City Royals|AL Central|mlb|kansas-city-royals
+Tigers|Detroit Tigers|AL Central|mlb|detroit-tigers
+Twins|Minnesota Twins|AL Central|mlb|minnesota-twins
+White Sox|Chicago White Sox|AL Central|mlb|chicago-white-sox
+Yankees|New York Yankees|AL East|mlb|new-york-yankees
+Celtics|Boston Celtics|Atlantic|nba|boston-celtics
+Nets|Brooklyn Nets|Atlantic|nba|brooklyn-nets
+Knicks|New York Knicks|Atlantic|nba|new-york-knicks
+76ers|Philadelphia 76ers|Atlantic|nba|philadelphia-76ers
+Raptors|Toronto Raptors|Atlantic|nba|toronto-raptors
+Warriors|Golden State Warriors|Pacific|nba|golden-state-warriors
+Clippers|LA Clippers|Pacific|nba|la-clippers
+Lakers|Los Angeles Lakers|Pacific|nba|los-angeles-lakers
+Suns|Phoenix Suns|Pacific|nba|phoenix-suns
+Kings|Sacramento Kings|Pacific|nba|sacramento-kings
+Bulls|Chicago Bulls|Central|nba|chicago-bulls
+Cavaliers|Cleveland Cavaliers|Central|nba|cleveland-cavaliers
+Pistons|Detroit Pistons|Central|nba|detroit-pistons
+Pacers|Indiana Pacers|Central|nba|indiana-pacers
+Bucks|Milwaukee Bucks|Central|nba|milwaukee-bucks
+Mavericks|Dallas Mavericks|Southwest|nba|dallas-mavericks
+Rockets|Houston Rockets|Southwest|nba|houston-rockets
+Grizzlies|Memphis Grizzlies|Southwest|nba|memphis-grizzlies
+Pelicans|New Orleans Pelicans|Southwest|nba|new-orleans-pelicans
+Spurs|San Antonio Spurs|Southwest|nba|san-antonio-spurs
+Hawks|Atlanta Hawks|Southeast|nba|atlanta-hawks
+Hornets|Charlotte Hornets|Southeast|nba|charlotte-hornets
+Heat|Miami Heat|Southeast|nba|miami-heat
+Magic|Orlando Magic|Southeast|nba|orlando-magic
+Wizards|Washington Wizards|Southeast|nba|washington-wizards
+Nuggets|Denver Nuggets|Northwest|nba|denver-nuggets
+Timberwolves|Minnesota Timberwolves|Northwest|nba|minnesota-timberwolves
+Thunder|Oklahoma City Thunder|Northwest|nba|oklahoma-city-thunder
+Blazers|Portland Trail Blazers|Northwest|nba|portland-trail-blazers
+Jazz|Utah Jazz|Northwest|nba|utah-jazz
+Blackhawks|Chicago Blackhawks|Central Division|nhl|chicago-blackhawks
+Avalanche|Colorado Avalanche|Central Division|nhl|colorado-avalanche
+Stars|Dallas Stars|Central Division|nhl|dallas-stars
+Wild|Minnesota Wild|Central Division|nhl|minnesota-wild
+Predators|Nashville Predators|Central Division|nhl|nashville-predators
+Blues|St. Louis Blues|Central Division|nhl|st-louis-blues
+Jets|Winnipeg Jets|Central Division|nhl|winnipeg-jets
+Ducks|Anaheim Ducks|Pacific Division|nhl|anaheim-ducks
+Coyotes|Arizona Coyotes|Pacific Division|nhl|arizona-coyotes
+Flames|Calgary Flames|Pacific Division|nhl|calgary-flames
+Oilers|Edmonton Oilers|Pacific Division|nhl|edmonton-oilers
+Kings|Los Angeles Kings|Pacific Division|nhl|los-angeles-kings
+Sharks|San Jose Sharks|Pacific Division|nhl|san-jose-sharks
+Canucks|Vancouver Canucks|Pacific Division|nhl|vancouver-canucks
+Golden Knights|Vegas Golden Knights|Pacific Division|nhl|vegas-golden-knights
+Bruins|Boston Bruins|Atlantic Division|nhl|boston-bruins
+Sabres|Buffalo Sabres|Atlantic Division|nhl|buffalo-sabres
+Red Wings|Detroit Red Wings|Atlantic Division|nhl|detroit-red-wings
+Panthers|Florida Panthers|Atlantic Division|nhl|florida-panthers
+Canadiens|Montreal Canadiens|Atlantic Division|nhl|montreal-canadiens
+Senators|Ottawa Senators|Atlantic Division|nhl|ottawa-senators
+Lightning|Tampa Bay Lightning|Atlantic Division|nhl|tampa-bay-lightning
+Maple Leafs|Toronto Maple Leafs|Atlantic Division|nhl|toronto-maple-leafs
+Hurricanes|Carolina Hurricanes|Metropolitan Division|nhl|carolina-hurricanes
+Blue Jackets|Columbus Blue Jackets|Metropolitan Division|nhl|columbus-blue-jackets
+Devils|New Jersey Devils|Metropolitan Division|nhl|new-jersey-devils
+Islanders|New York Islanders|Metropolitan Division|nhl|new-york-islanders
+Rangers|New York Rangers|Metropolitan Division|nhl|new-york-rangers
+Flyers|Philadelphia Flyers|Metropolitan Division|nhl|philadelphia-flyers
+Penguins|Pittsburgh Penguins|Metropolitan Division|nhl|pittsburgh-penguins
+Capitals|Washington Capitals|Metropolitan Division|nhl|washington-capitals
+Cowboys|Dallas Cowboys|NFC East|nfl|dallas-cowboys
+Giants|New York Giants|NFC East|nfl|new-york-giants
+Eagles|Philadelphia Eagles|NFC East|nfl|philadelphia-eagles
+Redskins|Washington Redskins|NFC East|nfl|washington-redskins
+Bills|Buffalo Bills|AFC East|nfl|buffalo-bills
+Dolphins|Miami Dolphins|AFC East|nfl|miami-dolphins
+Patriots|New England Patriots|AFC East|nfl|new-england-patriots
+Jets|New York Jets|AFC East|nfl|new-york-jets
+Cardinals|Arizona Cardinals|NFC West|nfl|arizona-cardinals
+Rams|Los Angeles Rams|NFC West|nfl|los-angeles-rams
+49ers|San Francisco 49ers|NFC West|nfl|san-francisco-49ers
+Seahawks|Seattle Seahawks|NFC West|nfl|seattle-seahawks
+Broncos|Denver Broncos|AFC West|nfl|denver-broncos
+Chiefs|Kansas City Chiefs|AFC West|nfl|kansas-city-chiefs
+Chargers|Los Angeles Chargers|AFC West|nfl|los-angeles-chargers
+Raiders|Oakland Raiders|AFC West|nfl|oakland-raiders
+Bears|Chicago Bears|NFC North|nfl|chicago-bears
+Lions|Detroit Lions|NFC North|nfl|detroit-lions
+Packers|Green Bay Packers|NFC North|nfl|green-bay-packers
+Vikings|Minnesota Vikings|NFC North|nfl|minnesota-vikings
+Ravens|Baltimore Ravens|AFC North|nfl|baltimore-ravens
+Bengals|Cincinnati Bengals|AFC North|nfl|cincinnati-bengals
+Browns|Cleveland Browns|AFC North|nfl|cleveland-browns
+Steelers|Pittsburgh Steelers|AFC North|nfl|pittsburgh-steelers
+Falcons|Atlanta Falcons|NFC South|nfl|atlanta-falcons
+Panthers|Carolina Panthers|NFC South|nfl|carolina-panthers
+Saints|New Orleans Saints|NFC South|nfl|new-orleans-saints
+Buccaneers|Tampa Bay Buccaneers|NFC South|nfl|tampa-bay-buccaneers
+Texans|Houston Texans|AFC South|nfl|houston-texans
+Colts|Indianapolis Colts|AFC South|nfl|indianapolis-colts
+Jaguars|Jacksonville Jaguars|AFC South|nfl|jacksonville-jaguars
+Titans|Tennessee Titans|AFC South|nfl|tennessee-titans
+Dream|Atlanta Dream|Eastern Conference|wnba|atlanta-dream
+Sky|Chicago Sky|Eastern Conference|wnba|chicago-sky
+Sun|Connecticut Sun|Eastern Conference|wnba|connecticut-sun
+Fever|Indiana Fever|Eastern Conference|wnba|indiana-fever
+Liberty|New York Liberty|Eastern Conference|wnba|new-york-liberty
+Mystics|Washington Mystics|Eastern Conference|wnba|washington-mystics
+Wings|Dallas Wings|Western Conference|wnba|dallas-wings
+Sparks|Los Angeles Sparks|Western Conference|wnba|los-angeles-sparks
+Lynx|Minnesota Lynx|Western Conference|wnba|minnesota-lynx
+Mercury|Phoenix Mercury|Western Conference|wnba|phoenix-mercury
+Stars|San Antonio Stars|Western Conference|wnba|san-antonio-stars
+Storm|Seattle Storm|Western Conference|wnba|seattle-storm
+Albany|Albany|America East|mens-college-basketball|albany-great-danes
+Binghamton|Binghamton|America East|mens-college-basketball|binghamton-bearcats
+Hartford|Hartford|America East|mens-college-basketball|hartford-hawks
+Maine|Maine|America East|mens-college-basketball|maine-black-bears
+UNH|UNH|America East|mens-college-basketball|new-hampshire-wildcats
+Stony Brook|Stony Brook|America East|mens-college-basketball|stony-brook-seawolves
+UMass Lowell|UMass Lowell|America East|mens-college-basketball|umass-lowell-river-hawks
+UMBC|UMBC|America East|mens-college-basketball|umbc-retrievers
+Vermont|Vermont|America East|mens-college-basketball|vermont-catamounts
+Cincinnati|Cincinnati|American|mens-college-basketball|cincinnati-bearcats
+UConn|UConn|American|mens-college-basketball|connecticut-huskies
+ECU|ECU|American|mens-college-basketball|east-carolina-pirates
+Houston|Houston|American|mens-college-basketball|houston-cougars
+Memphis|Memphis|American|mens-college-basketball|memphis-tigers
+SMU|SMU|American|mens-college-basketball|smu-mustangs
+USF|USF|American|mens-college-basketball|south-florida-bulls
+Temple|Temple|American|mens-college-basketball|temple-owls
+Tulane|Tulane|American|mens-college-basketball|tulane-green-wave
+Tulsa|Tulsa|American|mens-college-basketball|tulsa-golden-hurricane
+UCF|UCF|American|mens-college-basketball|ucf-knights
+Wichita State|Wichita State|American|mens-college-basketball|wichita-state-shockers
+Davidson|Davidson|Atlantic 10|mens-college-basketball|davidson-wildcats
+Dayton|Dayton|Atlantic 10|mens-college-basketball|dayton-flyers
+Duquesne|Duquesne|Atlantic 10|mens-college-basketball|duquesne-dukes
+Fordham|Fordham|Atlantic 10|mens-college-basketball|fordham-rams
+George Mason|George Mason|Atlantic 10|mens-college-basketball|george-mason-patriots
+G Washington|G Washington|Atlantic 10|mens-college-basketball|george-washington-colonials
+La Salle|La Salle|Atlantic 10|mens-college-basketball|la-salle-explorers
+UMass|UMass|Atlantic 10|mens-college-basketball|massachusetts-minutemen
+URI|URI|Atlantic 10|mens-college-basketball|rhode-island-rams
+Richmond|Richmond|Atlantic 10|mens-college-basketball|richmond-spiders
+Saint Joe's|Saint Joe's|Atlantic 10|mens-college-basketball|saint-joseph's-hawks
+Saint Louis|Saint Louis|Atlantic 10|mens-college-basketball|saint-louis-billikens
+St Bonaventure|St Bonaventure|Atlantic 10|mens-college-basketball|st.-bonaventure-bonnies
+VCU|VCU|Atlantic 10|mens-college-basketball|vcu-rams
+Boston College|Boston College|ACC|mens-college-basketball|boston-college-eagles
+Clemson|Clemson|ACC|mens-college-basketball|clemson-tigers
+Duke|Duke|ACC|mens-college-basketball|duke-blue-devils
+Florida State|Florida State|ACC|mens-college-basketball|florida-state-seminoles
+Georgia Tech|Georgia Tech|ACC|mens-college-basketball|georgia-tech-yellow-jackets
+Louisville|Louisville|ACC|mens-college-basketball|louisville-cardinals
+Miami|Miami|ACC|mens-college-basketball|miami-hurricanes
+NC State|NC State|ACC|mens-college-basketball|nc-state-wolfpack
+UNC|UNC|ACC|mens-college-basketball|north-carolina-tar-heels
+Notre Dame|Notre Dame|ACC|mens-college-basketball|notre-dame-fighting-irish
+Pitt|Pitt|ACC|mens-college-basketball|pittsburgh-panthers
+Syracuse|Syracuse|ACC|mens-college-basketball|syracuse-orange
+UVA|UVA|ACC|mens-college-basketball|virginia-cavaliers
+Virginia Tech|Virginia Tech|ACC|mens-college-basketball|virginia-tech-hokies
+Wake Forest|Wake Forest|ACC|mens-college-basketball|wake-forest-demon-deacons
+FGCU|FGCU|Atlantic Sun|mens-college-basketball|florida-gulf-coast-eagles
+Jacksonville|Jacksonville|Atlantic Sun|mens-college-basketball|jacksonville-dolphins
+Kennesaw State|Kennesaw State|Atlantic Sun|mens-college-basketball|kennesaw-state-owls
+Lipscomb|Lipscomb|Atlantic Sun|mens-college-basketball|lipscomb-bisons
+NJIT|NJIT|Atlantic Sun|mens-college-basketball|njit-highlanders
+North Florida|North Florida|Atlantic Sun|mens-college-basketball|north-florida-ospreys
+USC Upstate|USC Upstate|Atlantic Sun|mens-college-basketball|south-carolina-upstate-spartans
+Stetson|Stetson|Atlantic Sun|mens-college-basketball|stetson-hatters
+Baylor|Baylor|Big 12|mens-college-basketball|baylor-bears
+Iowa State|Iowa State|Big 12|mens-college-basketball|iowa-state-cyclones
+Kansas|Kansas|Big 12|mens-college-basketball|kansas-jayhawks
+Kansas State|Kansas State|Big 12|mens-college-basketball|kansas-state-wildcats
+Oklahoma|Oklahoma|Big 12|mens-college-basketball|oklahoma-sooners
+Oklahoma State|Oklahoma State|Big 12|mens-college-basketball|oklahoma-state-cowboys
+TCU|TCU|Big 12|mens-college-basketball|tcu-horned-frogs
+Texas|Texas|Big 12|mens-college-basketball|texas-longhorns
+Texas Tech|Texas Tech|Big 12|mens-college-basketball|texas-tech-red-raiders
+West Virginia|West Virginia|Big 12|mens-college-basketball|west-virginia-mountaineers
+Butler|Butler|Big East|mens-college-basketball|butler-bulldogs
+Creighton|Creighton|Big East|mens-college-basketball|creighton-bluejays
+DePaul|DePaul|Big East|mens-college-basketball|depaul-blue-demons
+Georgetown|Georgetown|Big East|mens-college-basketball|georgetown-hoyas
+Marquette|Marquette|Big East|mens-college-basketball|marquette-golden-eagles
+Providence|Providence|Big East|mens-college-basketball|providence-friars
+Seton Hall|Seton Hall|Big East|mens-college-basketball|seton-hall-pirates
+St John's|St John's|Big East|mens-college-basketball|st.-john's-red-storm
+Villanova|Villanova|Big East|mens-college-basketball|villanova-wildcats
+Xavier|Xavier|Big East|mens-college-basketball|xavier-musketeers
+E Washington|E Washington|Big Sky|mens-college-basketball|eastern-washington-eagles
+Idaho|Idaho|Big Sky|mens-college-basketball|idaho-vandals
+Idaho State|Idaho State|Big Sky|mens-college-basketball|idaho-state-bengals
+Montana|Montana|Big Sky|mens-college-basketball|montana-grizzlies
+Montana State|Montana State|Big Sky|mens-college-basketball|montana-state-bobcats
+North Dakota|North Dakota|Big Sky|mens-college-basketball|north-dakota-fighting-hawks
+N Arizona|N Arizona|Big Sky|mens-college-basketball|northern-arizona-lumberjacks
+N Colorado|N Colorado|Big Sky|mens-college-basketball|northern-colorado-bears
+Portland State|Portland State|Big Sky|mens-college-basketball|portland-state-vikings
+Sacramento St|Sacramento St|Big Sky|mens-college-basketball|sacramento-state-hornets
+Southern Utah|Southern Utah|Big Sky|mens-college-basketball|southern-utah-thunderbirds
+Weber State|Weber State|Big Sky|mens-college-basketball|weber-state-wildcats
+Campbell|Campbell|Big South|mens-college-basketball|campbell-fighting-camels
+Charleston So|Charleston So|Big South|mens-college-basketball|charleston-southern-buccaneers
+Gardner-Webb|Gardner-Webb|Big South|mens-college-basketball|gardner-webb-bulldogs
+High Point|High Point|Big South|mens-college-basketball|high-point-panthers
+Liberty|Liberty|Big South|mens-college-basketball|liberty-flames
+Longwood|Longwood|Big South|mens-college-basketball|longwood-lancers
+Presbyterian|Presbyterian|Big South|mens-college-basketball|presbyterian-college-blue-hose
+Radford|Radford|Big South|mens-college-basketball|radford-highlanders
+UNC Asheville|UNC Asheville|Big South|mens-college-basketball|unc-asheville-bulldogs
+Winthrop|Winthrop|Big South|mens-college-basketball|winthrop-eagles
+Illinois|Illinois|Big Ten|mens-college-basketball|illinois-fighting-illini
+Indiana|Indiana|Big Ten|mens-college-basketball|indiana-hoosiers
+Iowa|Iowa|Big Ten|mens-college-basketball|iowa-hawkeyes
+Maryland|Maryland|Big Ten|mens-college-basketball|maryland-terrapins
+Michigan|Michigan|Big Ten|mens-college-basketball|michigan-wolverines
+Michigan State|Michigan State|Big Ten|mens-college-basketball|michigan-state-spartans
+Minnesota|Minnesota|Big Ten|mens-college-basketball|minnesota-golden-gophers
+Nebraska|Nebraska|Big Ten|mens-college-basketball|nebraska-cornhuskers
+Northwestern|Northwestern|Big Ten|mens-college-basketball|northwestern-wildcats
+OSU|OSU|Big Ten|mens-college-basketball|ohio-state-buckeyes
+Penn State|Penn State|Big Ten|mens-college-basketball|penn-state-nittany-lions
+Purdue|Purdue|Big Ten|mens-college-basketball|purdue-boilermakers
+Rutgers|Rutgers|Big Ten|mens-college-basketball|rutgers-scarlet-knights
+Wisconsin|Wisconsin|Big Ten|mens-college-basketball|wisconsin-badgers
+Cal Poly|Cal Poly|Big West|mens-college-basketball|cal-poly-mustangs
+CSU Fullerton|CSU Fullerton|Big West|mens-college-basketball|cs-fullerton-titans
+CSU Northridge|CSU Northridge|Big West|mens-college-basketball|csu-northridge-matadors
+Hawai'i|Hawai'i|Big West|mens-college-basketball|hawai'i-rainbow-warriors
+Long Beach St|Long Beach St|Big West|mens-college-basketball|long-beach-state-49ers
+UC Davis|UC Davis|Big West|mens-college-basketball|uc-davis-aggies
+UC Irvine|UC Irvine|Big West|mens-college-basketball|uc-irvine-anteaters
+UC Riverside|UC Riverside|Big West|mens-college-basketball|uc-riverside-highlanders
+UCSB|UCSB|Big West|mens-college-basketball|uc-santa-barbara-gauchos
+Charleston|Charleston|Colonial|mens-college-basketball|charleston-cougars
+Delaware|Delaware|Colonial|mens-college-basketball|delaware-blue-hens
+Drexel|Drexel|Colonial|mens-college-basketball|drexel-dragons
+Elon|Elon|Colonial|mens-college-basketball|elon-phoenix
+Hofstra|Hofstra|Colonial|mens-college-basketball|hofstra-pride
+JMU|JMU|Colonial|mens-college-basketball|james-madison-dukes
+Northeastern|Northeastern|Colonial|mens-college-basketball|northeastern-huskies
+Towson|Towson|Colonial|mens-college-basketball|towson-tigers
+UNC Wilmington|UNC Wilmington|Colonial|mens-college-basketball|unc-wilmington-seahawks
+William & Mary|William & Mary|Colonial|mens-college-basketball|william-%26-mary-tribe
+Charlotte|Charlotte|Conference USA|mens-college-basketball|charlotte-49ers
+FAU|FAU|Conference USA|mens-college-basketball|florida-atlantic-owls
+FIU|FIU|Conference USA|mens-college-basketball|florida-intl-golden-panthers
+LA Tech|LA Tech|Conference USA|mens-college-basketball|louisiana-tech-bulldogs
+Marshall|Marshall|Conference USA|mens-college-basketball|marshall-thundering-herd
+Mid Tennessee|Mid Tennessee|Conference USA|mens-college-basketball|middle-tennessee-blue-raiders
+North Texas|North Texas|Conference USA|mens-college-basketball|north-texas-mean-green
+Old Dominion|Old Dominion|Conference USA|mens-college-basketball|old-dominion-monarchs
+Rice|Rice|Conference USA|mens-college-basketball|rice-owls
+Southern Miss|Southern Miss|Conference USA|mens-college-basketball|southern-miss-golden-eagles
+UAB|UAB|Conference USA|mens-college-basketball|uab-blazers
+UTSA|UTSA|Conference USA|mens-college-basketball|ut-san-antonio-roadrunners
+UTEP|UTEP|Conference USA|mens-college-basketball|utep-miners
+W Kentucky|W Kentucky|Conference USA|mens-college-basketball|western-kentucky-hilltoppers
+Cleveland State|Cleveland State|Horizon|mens-college-basketball|cleveland-state-vikings
+Detroit Mercy|Detroit Mercy|Horizon|mens-college-basketball|detroit-mercy-titans
+Green Bay|Green Bay|Horizon|mens-college-basketball|green-bay-phoenix
+IUPUI|IUPUI|Horizon|mens-college-basketball|iupui-jaguars
+Milwaukee|Milwaukee|Horizon|mens-college-basketball|milwaukee-panthers
+N Kentucky|N Kentucky|Horizon|mens-college-basketball|northern-kentucky-norse
+Oakland|Oakland|Horizon|mens-college-basketball|oakland-golden-grizzlies
+UIC|UIC|Horizon|mens-college-basketball|uic-flames
+Valparaiso|Valparaiso|Horizon|mens-college-basketball|valparaiso-crusaders
+Wright State|Wright State|Horizon|mens-college-basketball|wright-state-raiders
+Youngstown St|Youngstown St|Horizon|mens-college-basketball|youngstown-state-penguins
+Brown|Brown|Ivy|mens-college-basketball|brown-bears
+Columbia|Columbia|Ivy|mens-college-basketball|columbia-lions
+Cornell|Cornell|Ivy|mens-college-basketball|cornell-big-red
+Dartmouth|Dartmouth|Ivy|mens-college-basketball|dartmouth-big-green
+Harvard|Harvard|Ivy|mens-college-basketball|harvard-crimson
+Penn|Penn|Ivy|mens-college-basketball|pennsylvania-quakers
+Princeton|Princeton|Ivy|mens-college-basketball|princeton-tigers
+Yale|Yale|Ivy|mens-college-basketball|yale-bulldogs
+Canisius|Canisius|MAAC|mens-college-basketball|canisius-golden-griffins
+Fairfield|Fairfield|MAAC|mens-college-basketball|fairfield-stags
+Iona|Iona|MAAC|mens-college-basketball|iona-gaels
+Manhattan|Manhattan|MAAC|mens-college-basketball|manhattan-jaspers
+Marist|Marist|MAAC|mens-college-basketball|marist-red-foxes
+Monmouth|Monmouth|MAAC|mens-college-basketball|monmouth-hawks
+Niagara|Niagara|MAAC|mens-college-basketball|niagara-purple-eagles
+Quinnipiac|Quinnipiac|MAAC|mens-college-basketball|quinnipiac-bobcats
+Rider|Rider|MAAC|mens-college-basketball|rider-broncs
+St Peter's|St Peter's|MAAC|mens-college-basketball|saint-peter's-peacocks
+Siena|Siena|MAAC|mens-college-basketball|siena-saints
+Akron|Akron|Mid-American|mens-college-basketball|akron-zips
+Ball State|Ball State|Mid-American|mens-college-basketball|ball-state-cardinals
+Bowling Green|Bowling Green|Mid-American|mens-college-basketball|bowling-green-falcons
+Buffalo|Buffalo|Mid-American|mens-college-basketball|buffalo-bulls
+Cent Michigan|Cent Michigan|Mid-American|mens-college-basketball|central-michigan-chippewas
+E Michigan|E Michigan|Mid-American|mens-college-basketball|eastern-michigan-eagles
+Kent State|Kent State|Mid-American|mens-college-basketball|kent-state-golden-flashes
+Miami (OH)|Miami (OH)|Mid-American|mens-college-basketball|miami-(oh)-redhawks
+N Illinois|N Illinois|Mid-American|mens-college-basketball|northern-illinois-huskies
+Ohio|Ohio|Mid-American|mens-college-basketball|ohio-bobcats
+Toledo|Toledo|Mid-American|mens-college-basketball|toledo-rockets
+W Michigan|W Michigan|Mid-American|mens-college-basketball|western-michigan-broncos
+Bethune-Cookman|Bethune-Cookman|MEAC|mens-college-basketball|bethune-cookman-wildcats
+Coppin State|Coppin State|MEAC|mens-college-basketball|coppin-state-eagles
+Delaware State|Delaware State|MEAC|mens-college-basketball|delaware-state-hornets
+Florida A&M|Florida A&M;|MEAC|mens-college-basketball|florida-a%26m-rattlers
+Hampton|Hampton|MEAC|mens-college-basketball|hampton-pirates
+Howard|Howard|MEAC|mens-college-basketball|howard-bison
+MD-E Shore|MD-E Shore|MEAC|mens-college-basketball|maryland-eastern-shore-hawks
+Morgan State|Morgan State|MEAC|mens-college-basketball|morgan-state-bears
+Norfolk State|Norfolk State|MEAC|mens-college-basketball|norfolk-state-spartans
+NC A&T|NC A&T;|MEAC|mens-college-basketball|north-carolina-a%26t-aggies
+NC Central|NC Central|MEAC|mens-college-basketball|north-carolina-central-eagles
+Savannah State|Savannah State|MEAC|mens-college-basketball|savannah-state-tigers
+S Carolina St|S Carolina St|MEAC|mens-college-basketball|south-carolina-state-bulldogs
+Bradley|Bradley|Missouri Valley|mens-college-basketball|bradley-braves
+Drake|Drake|Missouri Valley|mens-college-basketball|drake-bulldogs
+Evansville|Evansville|Missouri Valley|mens-college-basketball|evansville-purple-aces
+Illinois State|Illinois State|Missouri Valley|mens-college-basketball|illinois-state-redbirds
+Indiana State|Indiana State|Missouri Valley|mens-college-basketball|indiana-state-sycamores
+Loyola-Chicago|Loyola-Chicago|Missouri Valley|mens-college-basketball|loyola-chicago-ramblers
+Missouri State|Missouri State|Missouri Valley|mens-college-basketball|missouri-state-bears
+Northern Iowa|Northern Iowa|Missouri Valley|mens-college-basketball|northern-iowa-panthers
+S Illinois|S Illinois|Missouri Valley|mens-college-basketball|southern-illinois-salukis
+Air Force|Air Force|Mountain West|mens-college-basketball|air-force-falcons
+Boise State|Boise State|Mountain West|mens-college-basketball|boise-state-broncos
+Colorado State|Colorado State|Mountain West|mens-college-basketball|colorado-state-rams
+Fresno State|Fresno State|Mountain West|mens-college-basketball|fresno-state-bulldogs
+Nevada|Nevada|Mountain West|mens-college-basketball|nevada-wolf-pack
+New Mexico|New Mexico|Mountain West|mens-college-basketball|new-mexico-lobos
+San Diego State|San Diego State|Mountain West|mens-college-basketball|san-diego-state-aztecs
+San Jose State|San Jose State|Mountain West|mens-college-basketball|san-jos%C3%A9-state-spartans
+UNLV|UNLV|Mountain West|mens-college-basketball|unlv-rebels
+Utah State|Utah State|Mountain West|mens-college-basketball|utah-state-aggies
+Wyoming|Wyoming|Mountain West|mens-college-basketball|wyoming-cowboys
+Bryant|Bryant|Northeast|mens-college-basketball|bryant-bulldogs
+Cent Conn St|Cent Conn St|Northeast|mens-college-basketball|central-connecticut-blue-devils
+Fair Dickinson|Fair Dickinson|Northeast|mens-college-basketball|fairleigh-dickinson-knights
+LIU Brooklyn|LIU Brooklyn|Northeast|mens-college-basketball|liu-brooklyn-blackbirds
+Mt St Mary's|Mt St Mary's|Northeast|mens-college-basketball|mt.-st.-mary's-mountaineers
+Robert Morris|Robert Morris|Northeast|mens-college-basketball|robert-morris-colonials
+Sacred Heart|Sacred Heart|Northeast|mens-college-basketball|sacred-heart-pioneers
+St Francis (BKN)|St Francis (BKN)|Northeast|mens-college-basketball|st.-francis-(bkn)-terriers
+St Francis (PA)|St Francis (PA)|Northeast|mens-college-basketball|st.-francis-(pa)-red-flash
+Wagner|Wagner|Northeast|mens-college-basketball|wagner-seahawks
+Austin Peay|Austin Peay|Ohio Valley|mens-college-basketball|austin-peay-governors
+Belmont|Belmont|Ohio Valley|mens-college-basketball|belmont-bruins
+E Illinois|E Illinois|Ohio Valley|mens-college-basketball|eastern-illinois-panthers
+E Kentucky|E Kentucky|Ohio Valley|mens-college-basketball|eastern-kentucky-colonels
+Jacksonville St|Jacksonville St|Ohio Valley|mens-college-basketball|jacksonville-state-gamecocks
+Morehead State|Morehead State|Ohio Valley|mens-college-basketball|morehead-state-eagles
+Murray State|Murray State|Ohio Valley|mens-college-basketball|murray-state-racers
+SIU ED|SIU ED|Ohio Valley|mens-college-basketball|siu-edwardsville-cougars
+SE Missouri St|SE Missouri St|Ohio Valley|mens-college-basketball|southeast-missouri-state-redhawks
+Tennessee St|Tennessee St|Ohio Valley|mens-college-basketball|tennessee-st-tennessee-state
+Tenn Tech|Tenn Tech|Ohio Valley|mens-college-basketball|tennessee-tech-golden-eagles
+UT Martin|UT Martin|Ohio Valley|mens-college-basketball|ut-martin-skyhawks
+Arizona|Arizona|Pac-12|mens-college-basketball|arizona-wildcats
+Arizona State|Arizona State|Pac-12|mens-college-basketball|arizona-state-sun-devils
+Cal|Cal|Pac-12|mens-college-basketball|california-golden-bears
+Colorado|Colorado|Pac-12|mens-college-basketball|colorado-buffaloes
+Oregon|Oregon|Pac-12|mens-college-basketball|oregon-ducks
+Oregon State|Oregon State|Pac-12|mens-college-basketball|oregon-state-beavers
+Stanford|Stanford|Pac-12|mens-college-basketball|stanford-cardinal
+UCLA|UCLA|Pac-12|mens-college-basketball|ucla-bruins
+USC|USC|Pac-12|mens-college-basketball|usc-trojans
+Utah|Utah|Pac-12|mens-college-basketball|utah-utes
+Washington|Washington|Pac-12|mens-college-basketball|washington-huskies
+Washington St|Washington St|Pac-12|mens-college-basketball|washington-state-cougars
+American U|American U|Patriot League|mens-college-basketball|american-eagles
+Army|Army|Patriot League|mens-college-basketball|army-black-knights
+Boston U|Boston U|Patriot League|mens-college-basketball|boston-university-terriers
+Bucknell|Bucknell|Patriot League|mens-college-basketball|bucknell-bison
+Colgate|Colgate|Patriot League|mens-college-basketball|colgate-raiders
+Holy Cross|Holy Cross|Patriot League|mens-college-basketball|holy-cross-crusaders
+Lafayette|Lafayette|Patriot League|mens-college-basketball|lafayette-leopards
+Lehigh|Lehigh|Patriot League|mens-college-basketball|lehigh-mountain-hawks
+Loyola (MD)|Loyola (MD)|Patriot League|mens-college-basketball|loyola-(md)-greyhounds
+Navy|Navy|Patriot League|mens-college-basketball|navy-midshipmen
+Alabama|Alabama|SEC|mens-college-basketball|alabama-crimson-tide
+Arkansas|Arkansas|SEC|mens-college-basketball|arkansas-razorbacks
+Auburn|Auburn|SEC|mens-college-basketball|auburn-tigers
+Florida|Florida|SEC|mens-college-basketball|florida-gators
+Georgia|Georgia|SEC|mens-college-basketball|georgia-bulldogs
+Kentucky|Kentucky|SEC|mens-college-basketball|kentucky-wildcats
+LSU|LSU|SEC|mens-college-basketball|lsu-tigers
+Miss St|Miss St|SEC|mens-college-basketball|mississippi-state-bulldogs
+Missouri|Missouri|SEC|mens-college-basketball|missouri-tigers
+Ole Miss|Ole Miss|SEC|mens-college-basketball|ole-miss-rebels
+South Carolina|South Carolina|SEC|mens-college-basketball|south-carolina-gamecocks
+Tennessee|Tennessee|SEC|mens-college-basketball|tennessee-volunteers
+Texas A&M|Texas A&M;|SEC|mens-college-basketball|texas-a%26m-aggies
+Vanderbilt|Vanderbilt|SEC|mens-college-basketball|vanderbilt-commodores
+Chattanooga|Chattanooga|Southern|mens-college-basketball|chattanooga-mocs
+ETSU|ETSU|Southern|mens-college-basketball|east-tennessee-state-buccaneers
+Furman|Furman|Southern|mens-college-basketball|furman-paladins
+Mercer|Mercer|Southern|mens-college-basketball|mercer-bears
+Samford|Samford|Southern|mens-college-basketball|samford-bulldogs
+The Citadel|The Citadel|Southern|mens-college-basketball|the-citadel-bulldogs
+UNCG|UNCG|Southern|mens-college-basketball|unc-greensboro-spartans
+VMI|VMI|Southern|mens-college-basketball|vmi-keydets
+W Carolina|W Carolina|Southern|mens-college-basketball|western-carolina-catamounts
+Wofford|Wofford|Southern|mens-college-basketball|wofford-terriers
+Abil Christian|Abil Christian|Southland|mens-college-basketball|abilene-christian-wildcats
+Cent Arkansas|Cent Arkansas|Southland|mens-college-basketball|central-arkansas-bears
+Houston Baptist|Houston Baptist|Southland|mens-college-basketball|houston-baptist-huskies
+Incarnate Word|Incarnate Word|Southland|mens-college-basketball|incarnate-word-cardinals
+Lamar|Lamar|Southland|mens-college-basketball|lamar-cardinals
+McNeese|McNeese|Southland|mens-college-basketball|mcneese-cowboys
+New Orleans|New Orleans|Southland|mens-college-basketball|new-orleans-privateers
+Nicholls|Nicholls|Southland|mens-college-basketball|nicholls-colonels
+Northwestern St|Northwestern St|Southland|mens-college-basketball|northwestern-state-demons
+Sam Houston|Sam Houston|Southland|mens-college-basketball|sam-houston-state-bearkats
+SE Louisiana|SE Louisiana|Southland|mens-college-basketball|se-louisiana-lions
+SF Austin|SF Austin|Southland|mens-college-basketball|stephen-f.-austin-lumberjacks
+Texas A&M-CC|Texas A&M-CC;|Southland|mens-college-basketball|texas-a%26m-cc-islanders
+Alabama A&M|Alabama A&M;|SWAC|mens-college-basketball|alabama-a%26m-bulldogs
+Alabama State|Alabama State|SWAC|mens-college-basketball|alabama-state-hornets
+Alcorn State|Alcorn State|SWAC|mens-college-basketball|alcorn-state-braves
+AR-Pine Bluff|AR-Pine Bluff|SWAC|mens-college-basketball|arkansas-pine-bluff-golden-lions
+Southern|Southern|SWAC|mens-college-basketball|baton-rouge-southern
+Grambling|Grambling|SWAC|mens-college-basketball|grambling-tigers
+Jackson State|Jackson State|SWAC|mens-college-basketball|jackson-state-tigers
+Miss Valley St|Miss Valley St|SWAC|mens-college-basketball|mississippi-valley-state-delta-devils
+PV A&M|PV A&M;|SWAC|mens-college-basketball|prairie-view-a%26m-panthers
+Texas Southern|Texas Southern|SWAC|mens-college-basketball|texas-southern-tigers
+Denver|Denver|Summit League|mens-college-basketball|denver-pioneers
+Fort Wayne|Fort Wayne|Summit League|mens-college-basketball|fort-wayne-mastodons
+North Dakota St|North Dakota St|Summit League|mens-college-basketball|north-dakota-state-bison
+Omaha|Omaha|Summit League|mens-college-basketball|omaha-mavericks
+Oral Roberts|Oral Roberts|Summit League|mens-college-basketball|oral-roberts-golden-eagles
+South Dakota|South Dakota|Summit League|mens-college-basketball|south-dakota-coyotes
+South Dakota St|South Dakota St|Summit League|mens-college-basketball|south-dakota-state-jackrabbits
+W Illinois|W Illinois|Summit League|mens-college-basketball|western-illinois-leathernecks
+Appalachian St|Appalachian St|Sun Belt|mens-college-basketball|appalachian-state-mountaineers
+Arkansas State|Arkansas State|Sun Belt|mens-college-basketball|arkansas-state-red-wolves
+C. Carolina|C. Carolina|Sun Belt|mens-college-basketball|coastal-carolina-chanticleers
+Ga Southern|Ga Southern|Sun Belt|mens-college-basketball|georgia-southern-eagles
+Georgia State|Georgia State|Sun Belt|mens-college-basketball|georgia-state-panthers
+Little Rock|Little Rock|Sun Belt|mens-college-basketball|little-rock-trojans
+Louisiana|Louisiana|Sun Belt|mens-college-basketball|louisiana-ragin'-cajuns
+South Alabama|South Alabama|Sun Belt|mens-college-basketball|south-alabama-jaguars
+Texas State|Texas State|Sun Belt|mens-college-basketball|texas-state-bobcats
+Troy|Troy|Sun Belt|mens-college-basketball|troy-trojans
+UL Monroe|UL Monroe|Sun Belt|mens-college-basketball|ul-monroe-warhawks
+UT Arlington|UT Arlington|Sun Belt|mens-college-basketball|ut-arlington-mavericks
+BYU|BYU|West Coast|mens-college-basketball|byu-cougars
+Gonzaga|Gonzaga|West Coast|mens-college-basketball|gonzaga-bulldogs
+Loyola Mary|Loyola Mary|West Coast|mens-college-basketball|loyola-marymount-lions
+Pacific|Pacific|West Coast|mens-college-basketball|pacific-tigers
+Pepperdine|Pepperdine|West Coast|mens-college-basketball|pepperdine-waves
+Portland|Portland|West Coast|mens-college-basketball|portland-pilots
+Saint Mary's|Saint Mary's|West Coast|mens-college-basketball|saint-mary's-gaels
+San Diego|San Diego|West Coast|mens-college-basketball|san-diego-toreros
+San Francisco|San Francisco|West Coast|mens-college-basketball|san-francisco-dons
+Santa Clara|Santa Clara|West Coast|mens-college-basketball|santa-clara-broncos
+Chicago State|Chicago State|WAC|mens-college-basketball|chicago-state-cougars
+CSU Bakersfield|CSU Bakersfield|WAC|mens-college-basketball|csu-bakersfield-roadrunners
+Grand Canyon|Grand Canyon|WAC|mens-college-basketball|grand-canyon-antelopes
+New Mexico St|New Mexico St|WAC|mens-college-basketball|new-mexico-state-aggies
+Seattle|Seattle|WAC|mens-college-basketball|seattle-redhawks
+UMKC|UMKC|WAC|mens-college-basketball|umkc-kangaroos
+UT Rio Grande|UT Rio Grande|WAC|mens-college-basketball|ut-rio-grande-valley-vaqueros
+Utah Valley|Utah Valley|WAC|mens-college-basketball|utah-valley-wolverines
+Cincinnati|Cincinnati|American Athletic|college-football|cincinnati-bearcats
+Connecticut|Connecticut|American Athletic|college-football|connecticut-huskies
+East Carolina|East Carolina|American Athletic|college-football|east-carolina-pirates
+Houston|Houston|American Athletic|college-football|houston-cougars
+Memphis|Memphis|American Athletic|college-football|memphis-tigers
+Navy|Navy|American Athletic|college-football|navy-midshipmen
+SMU|SMU|American Athletic|college-football|smu-mustangs
+South Florida|South Florida|American Athletic|college-football|south-florida-bulls
+Temple|Temple|American Athletic|college-football|temple-owls
+Tulane|Tulane|American Athletic|college-football|tulane-green-wave
+Tulsa|Tulsa|American Athletic|college-football|tulsa-golden-hurricane
+UCF|UCF|American Athletic|college-football|ucf-knights
+Boston College|Boston College|ACC|college-football|boston-college-eagles
+Clemson|Clemson|ACC|college-football|clemson-tigers
+Duke|Duke|ACC|college-football|duke-blue-devils
+Florida State|Florida State|ACC|college-football|florida-state-seminoles
+Georgia Tech|Georgia Tech|ACC|college-football|georgia-tech-yellow-jackets
+Louisville|Louisville|ACC|college-football|louisville-cardinals
+Miami|Miami|ACC|college-football|miami-hurricanes
+NC State|NC State|ACC|college-football|nc-state-wolfpack
+North Carolina|North Carolina|ACC|college-football|north-carolina-tar-heels
+Pittsburgh|Pittsburgh|ACC|college-football|pittsburgh-panthers
+Syracuse|Syracuse|ACC|college-football|syracuse-orange
+Virginia|Virginia|ACC|college-football|virginia-cavaliers
+Virginia Tech|Virginia Tech|ACC|college-football|virginia-tech-hokies
+Wake Forest|Wake Forest|ACC|college-football|wake-forest-demon-deacons
+Baylor|Baylor|Big 12|college-football|baylor-bears
+Iowa State|Iowa State|Big 12|college-football|iowa-state-cyclones
+Kansas|Kansas|Big 12|college-football|kansas-jayhawks
+Kansas State|Kansas State|Big 12|college-football|kansas-state-wildcats
+Oklahoma|Oklahoma|Big 12|college-football|oklahoma-sooners
+Oklahoma State|Oklahoma State|Big 12|college-football|oklahoma-state-cowboys
+TCU|TCU|Big 12|college-football|tcu-horned-frogs
+Texas|Texas|Big 12|college-football|texas-longhorns
+Texas Tech|Texas Tech|Big 12|college-football|texas-tech-red-raiders
+West Virginia|West Virginia|Big 12|college-football|west-virginia-mountaineers
+Illinois|Illinois|Big Ten|college-football|illinois-fighting-illini
+Indiana|Indiana|Big Ten|college-football|indiana-hoosiers
+Iowa|Iowa|Big Ten|college-football|iowa-hawkeyes
+Maryland|Maryland|Big Ten|college-football|maryland-terrapins
+Michigan|Michigan|Big Ten|college-football|michigan-wolverines
+Michigan State|Michigan State|Big Ten|college-football|michigan-state-spartans
+Minnesota|Minnesota|Big Ten|college-football|minnesota-golden-gophers
+Nebraska|Nebraska|Big Ten|college-football|nebraska-cornhuskers
+Northwestern|Northwestern|Big Ten|college-football|northwestern-wildcats
+Ohio State|Ohio State|Big Ten|college-football|ohio-state-buckeyes
+Penn State|Penn State|Big Ten|college-football|penn-state-nittany-lions
+Purdue|Purdue|Big Ten|college-football|purdue-boilermakers
+Rutgers|Rutgers|Big Ten|college-football|rutgers-scarlet-knights
+Wisconsin|Wisconsin|Big Ten|college-football|wisconsin-badgers
+Charlotte|Charlotte|Conference USA|college-football|charlotte-49ers
+Florida Atlantic|Florida Atlantic|Conference USA|college-football|florida-atlantic-owls
+Florida Intl|Florida Intl|Conference USA|college-football|florida-intl-golden-panthers
+Louisiana Tech|Louisiana Tech|Conference USA|college-football|louisiana-tech-bulldogs
+Marshall|Marshall|Conference USA|college-football|marshall-thundering-herd
+Middle Tennessee|Middle Tennessee|Conference USA|college-football|middle-tennessee-blue-raiders
+North Texas|North Texas|Conference USA|college-football|north-texas-mean-green
+Old Dominion|Old Dominion|Conference USA|college-football|old-dominion-monarchs
+Rice|Rice|Conference USA|college-football|rice-owls
+Southern Mississippi|Southern Mississippi|Conference USA|college-football|southern-mississippi-golden-eagles
+UAB|UAB|Conference USA|college-football|uab-blazers
+UT San Antonio|UT San Antonio|Conference USA|college-football|ut-san-antonio-roadrunners
+UTEP|UTEP|Conference USA|college-football|utep-miners
+Western Kentucky|Western Kentucky|Conference USA|college-football|western-kentucky-hilltoppers
+Army|Army|FBS Independents|college-football|army-black-knights
+BYU|BYU|FBS Independents|college-football|byu-cougars
+Notre Dame|Notre Dame|FBS Independents|college-football|notre-dame-fighting-irish
+UMass|UMass|FBS Independents|college-football|umass-minutemen
+Akron|Akron|Mid-American|college-football|akron-zips
+Ball State|Ball State|Mid-American|college-football|ball-state-cardinals
+Bowling Green|Bowling Green|Mid-American|college-football|bowling-green-falcons
+Buffalo|Buffalo|Mid-American|college-football|buffalo-bulls
+Central Michigan|Central Michigan|Mid-American|college-football|central-michigan-chippewas
+Eastern Michigan|Eastern Michigan|Mid-American|college-football|eastern-michigan-eagles
+Kent State|Kent State|Mid-American|college-football|kent-state-golden-flashes
+Miami (OH)|Miami (OH)|Mid-American|college-football|miami-(oh)-redhawks
+Northern Illinois|Northern Illinois|Mid-American|college-football|northern-illinois-huskies
+Ohio|Ohio|Mid-American|college-football|ohio-bobcats
+Toledo|Toledo|Mid-American|college-football|toledo-rockets
+Western Michigan|Western Michigan|Mid-American|college-football|western-michigan-broncos
+Air Force|Air Force|Mountain West|college-football|air-force-falcons
+Boise State|Boise State|Mountain West|college-football|boise-state-broncos
+Colorado State|Colorado State|Mountain West|college-football|colorado-state-rams
+Fresno State|Fresno State|Mountain West|college-football|fresno-state-bulldogs
+Hawai'i|Hawai'i|Mountain West|college-football|hawai'i-rainbow-warriors
+Nevada|Nevada|Mountain West|college-football|nevada-wolf-pack
+New Mexico|New Mexico|Mountain West|college-football|new-mexico-lobos
+San Diego State|San Diego State|Mountain West|college-football|san-diego-state-aztecs
+San Josͩ State|San Josͩ State|Mountain West|college-football|san-jos%C3%A9-state-spartans
+UNLV|UNLV|Mountain West|college-football|unlv-rebels
+Utah State|Utah State|Mountain West|college-football|utah-state-aggies
+Wyoming|Wyoming|Mountain West|college-football|wyoming-cowboys
+Arizona|Arizona|Pac-12|college-football|arizona-wildcats
+Arizona State|Arizona State|Pac-12|college-football|arizona-state-sun-devils
+California|California|Pac-12|college-football|california-golden-bears
+Colorado|Colorado|Pac-12|college-football|colorado-buffaloes
+Oregon|Oregon|Pac-12|college-football|oregon-ducks
+Oregon State|Oregon State|Pac-12|college-football|oregon-state-beavers
+Stanford|Stanford|Pac-12|college-football|stanford-cardinal
+UCLA|UCLA|Pac-12|college-football|ucla-bruins
+USC|USC|Pac-12|college-football|usc-trojans
+Utah|Utah|Pac-12|college-football|utah-utes
+Washington|Washington|Pac-12|college-football|washington-huskies
+Washington State|Washington State|Pac-12|college-football|washington-state-cougars
+Alabama|Alabama|SEC|college-football|alabama-crimson-tide
+Arkansas|Arkansas|SEC|college-football|arkansas-razorbacks
+Auburn|Auburn|SEC|college-football|auburn-tigers
+Florida|Florida|SEC|college-football|florida-gators
+Georgia|Georgia|SEC|college-football|georgia-bulldogs
+Kentucky|Kentucky|SEC|college-football|kentucky-wildcats
+LSU|LSU|SEC|college-football|lsu-tigers
+Mississippi State|Mississippi State|SEC|college-football|mississippi-state-bulldogs
+Missouri|Missouri|SEC|college-football|missouri-tigers
+Ole Miss|Ole Miss|SEC|college-football|ole-miss-rebels
+South Carolina|South Carolina|SEC|college-football|south-carolina-gamecocks
+Tennessee|Tennessee|SEC|college-football|tennessee-volunteers
+Texas A&M|Texas A&M;|SEC|college-football|texas-a%26m-aggies
+Vanderbilt|Vanderbilt|SEC|college-football|vanderbilt-commodores
+Appalachian State|Appalachian State|Sun Belt|college-football|appalachian-state-mountaineers
+Arkansas State|Arkansas State|Sun Belt|college-football|arkansas-state-red-wolves
+Coastal Carolina|Coastal Carolina|Sun Belt|college-football|coastal-carolina-chanticleers
+Georgia Southern|Georgia Southern|Sun Belt|college-football|georgia-southern-eagles
+Georgia State|Georgia State|Sun Belt|college-football|georgia-state-panthers
+Idaho|Idaho|Sun Belt|college-football|idaho-vandals
+Louisiana|Louisiana|Sun Belt|college-football|louisiana-ragin'-cajuns
+Louisiana Monroe|Louisiana Monroe|Sun Belt|college-football|louisiana-monroe-warhawks
+New Mexico State|New Mexico State|Sun Belt|college-football|new-mexico-state-aggies
+South Alabama|South Alabama|Sun Belt|college-football|south-alabama-jaguars
+Texas State|Texas State|Sun Belt|college-football|texas-state-bobcats
+Troy|Troy|Sun Belt|college-football|troy-trojans
+Cal Poly|Cal Poly|Big Sky|college-football|cal-poly-mustangs
+Eastern Washington|Eastern Washington|Big Sky|college-football|eastern-washington-eagles
+Idaho State|Idaho State|Big Sky|college-football|idaho-state-bengals
+Montana|Montana|Big Sky|college-football|montana-grizzlies
+Montana State|Montana State|Big Sky|college-football|montana-state-bobcats
+North Dakota|North Dakota|Big Sky|college-football|north-dakota-fighting-hawks
+Northern Arizona|Northern Arizona|Big Sky|college-football|northern-arizona-lumberjacks
+Northern Colorado|Northern Colorado|Big Sky|college-football|northern-colorado-bears
+Portland State|Portland State|Big Sky|college-football|portland-state-vikings
+Sacramento State|Sacramento State|Big Sky|college-football|sacramento-state-hornets
+Southern Utah|Southern Utah|Big Sky|college-football|southern-utah-thunderbirds
+UC Davis|UC Davis|Big Sky|college-football|uc-davis-aggies
+Weber State|Weber State|Big Sky|college-football|weber-state-wildcats
+Charleston Southern|Charleston Southern|Big South|college-football|charleston-southern-buccaneers
+Gardner-Webb|Gardner-Webb|Big South|college-football|gardner-webb-bulldogs
+Kennesaw State|Kennesaw State|Big South|college-football|kennesaw-state-owls
+Liberty|Liberty|Big South|college-football|liberty-flames
+Monmouth|Monmouth|Big South|college-football|monmouth-hawks
+Presbyterian College|Presbyterian College|Big South|college-football|presbyterian-college-blue-hose
+Albany|Albany|CAA|college-football|albany-great-danes
+Delaware|Delaware|CAA|college-football|delaware-blue-hens
+Elon|Elon|CAA|college-football|elon-phoenix
+James Madison|James Madison|CAA|college-football|james-madison-dukes
+Maine|Maine|CAA|college-football|maine-black-bears
+New Hampshire|New Hampshire|CAA|college-football|new-hampshire-wildcats
+Rhode Island|Rhode Island|CAA|college-football|rhode-island-rams
+Richmond|Richmond|CAA|college-football|richmond-spiders
+Stony Brook|Stony Brook|CAA|college-football|stony-brook-seawolves
+Towson|Towson|CAA|college-football|towson-tigers
+Villanova|Villanova|CAA|college-football|villanova-wildcats
+William & Mary|William & Mary|CAA|college-football|william-%26-mary-tribe
+Brown|Brown|Ivy|college-football|brown-bears
+Columbia|Columbia|Ivy|college-football|columbia-lions
+Cornell|Cornell|Ivy|college-football|cornell-big-red
+Dartmouth|Dartmouth|Ivy|college-football|dartmouth-big-green
+Harvard|Harvard|Ivy|college-football|harvard-crimson
+Pennsylvania|Pennsylvania|Ivy|college-football|pennsylvania-quakers
+Princeton|Princeton|Ivy|college-football|princeton-tigers
+Yale|Yale|Ivy|college-football|yale-bulldogs
+Bethune-Cookman|Bethune-Cookman|MEAC|college-football|bethune-cookman-wildcats
+Delaware State|Delaware State|MEAC|college-football|delaware-state-hornets
+Florida A&M|Florida A&M;|MEAC|college-football|florida-a%26m-rattlers
+Hampton|Hampton|MEAC|college-football|hampton-pirates
+Howard|Howard|MEAC|college-football|howard-bison
+Morgan State|Morgan State|MEAC|college-football|morgan-state-bears
+Norfolk State|Norfolk State|MEAC|college-football|norfolk-state-spartans
+North Carolina A&T|North Carolina A&T;|MEAC|college-football|north-carolina-a%26t-aggies
+North Carolina Central|North Carolina Central|MEAC|college-football|north-carolina-central-eagles
+Savannah State|Savannah State|MEAC|college-football|savannah-state-tigers
+South Carolina State|South Carolina State|MEAC|college-football|south-carolina-state-bulldogs
+Illinois State|Illinois State|Missouri Valley|college-football|illinois-state-redbirds
+Indiana State|Indiana State|Missouri Valley|college-football|indiana-state-sycamores
+Missouri State|Missouri State|Missouri Valley|college-football|missouri-state-bears
+North Dakota State|North Dakota State|Missouri Valley|college-football|north-dakota-state-bison
+Northern Iowa|Northern Iowa|Missouri Valley|college-football|northern-iowa-panthers
+South Dakota|South Dakota|Missouri Valley|college-football|south-dakota-coyotes
+South Dakota State|South Dakota State|Missouri Valley|college-football|south-dakota-state-jackrabbits
+Southern Illinois|Southern Illinois|Missouri Valley|college-football|southern-illinois-salukis
+Western Illinois|Western Illinois|Missouri Valley|college-football|western-illinois-leathernecks
+Youngstown State|Youngstown State|Missouri Valley|college-football|youngstown-state-penguins
+Bryant|Bryant|Northeast|college-football|bryant-bulldogs
+Central Connecticut|Central Connecticut|Northeast|college-football|central-connecticut-blue-devils
+Duquesne|Duquesne|Northeast|college-football|duquesne-dukes
+Robert Morris|Robert Morris|Northeast|college-football|robert-morris-colonials
+Sacred Heart|Sacred Heart|Northeast|college-football|sacred-heart-pioneers
+St Francis (PA)|St Francis (PA)|Northeast|college-football|st-francis-(pa)-red-flash
+Wagner|Wagner|Northeast|college-football|wagner-seahawks
+Austin Peay|Austin Peay|Ohio Valley|college-football|austin-peay-governors
+Eastern Illinois|Eastern Illinois|Ohio Valley|college-football|eastern-illinois-panthers
+Eastern Kentucky|Eastern Kentucky|Ohio Valley|college-football|eastern-kentucky-colonels
+Jacksonville State|Jacksonville State|Ohio Valley|college-football|jacksonville-state-gamecocks
+Murray State|Murray State|Ohio Valley|college-football|murray-state-racers
+Southeast Missouri State|Southeast Missouri State|Ohio Valley|college-football|southeast-missouri-state-redhawks
+Tennessee State|Tennessee State|Ohio Valley|college-football|tennessee-state-tigers
+Tennessee Tech|Tennessee Tech|Ohio Valley|college-football|tennessee-tech-golden-eagles
+UT Martin|UT Martin|Ohio Valley|college-football|ut-martin-skyhawks
+Bucknell|Bucknell|Patriot League|college-football|bucknell-bison
+Colgate|Colgate|Patriot League|college-football|colgate-raiders
+Fordham|Fordham|Patriot League|college-football|fordham-rams
+Georgetown|Georgetown|Patriot League|college-football|georgetown-hoyas
+Holy Cross|Holy Cross|Patriot League|college-football|holy-cross-crusaders
+Lafayette|Lafayette|Patriot League|college-football|lafayette-leopards
+Lehigh|Lehigh|Patriot League|college-football|lehigh-mountain-hawks
+Butler|Butler|Pioneer|college-football|butler-bulldogs
+Campbell|Campbell|Pioneer|college-football|campbell-camels
+Davidson|Davidson|Pioneer|college-football|davidson-wildcats
+Dayton|Dayton|Pioneer|college-football|dayton-flyers
+Drake|Drake|Pioneer|college-football|drake-bulldogs
+Jacksonville|Jacksonville|Pioneer|college-football|jacksonville-dolphins
+Marist|Marist|Pioneer|college-football|marist-red-foxes
+Morehead State|Morehead State|Pioneer|college-football|morehead-state-eagles
+San Diego|San Diego|Pioneer|college-football|san-diego-toreros
+Stetson|Stetson|Pioneer|college-football|stetson-hatters
+Valparaiso|Valparaiso|Pioneer|college-football|valparaiso-crusaders
+Chattanooga|Chattanooga|Southern|college-football|chattanooga-mocs
+East Tennessee State|East Tennessee State|Southern|college-football|east-tennessee-state-buccaneers
+Furman|Furman|Southern|college-football|furman-paladins
+Mercer|Mercer|Southern|college-football|mercer-bears
+Samford|Samford|Southern|college-football|samford-bulldogs
+The Citadel|The Citadel|Southern|college-football|the-citadel-bulldogs
+VMI|VMI|Southern|college-football|vmi-keydets
+Western Carolina|Western Carolina|Southern|college-football|western-carolina-catamounts
+Wofford|Wofford|Southern|college-football|wofford-terriers
+Abilene Christian|Abilene Christian|Southland|college-football|abilene-christian-wildcats
+Central Arkansas|Central Arkansas|Southland|college-football|central-arkansas-bears
+Houston Baptist|Houston Baptist|Southland|college-football|houston-baptist-huskies
+Incarnate Word|Incarnate Word|Southland|college-football|incarnate-word-cardinals
+Lamar|Lamar|Southland|college-football|lamar-cardinals
+McNeese|McNeese|Southland|college-football|mcneese-cowboys
+Nicholls|Nicholls|Southland|college-football|nicholls-colonels
+Northwestern State|Northwestern State|Southland|college-football|northwestern-state-demons
+Sam Houston State|Sam Houston State|Southland|college-football|sam-houston-state-bearkats
+Southeastern Louisiana|Southeastern Louisiana|Southland|college-football|southeastern-louisiana-lions
+Stephen F. Austin|Stephen F. Austin|Southland|college-football|stephen-f.-austin-lumberjacks
+Alabama A&M|Alabama A&M;|SWAC|college-football|alabama-a%26m-bulldogs
+Alabama State|Alabama State|SWAC|college-football|alabama-state-hornets
+Alcorn State|Alcorn State|SWAC|college-football|alcorn-state-braves
+Arkansas-Pine Bluff|Arkansas-Pine Bluff|SWAC|college-football|arkansas-pine-bluff-golden-lions
+Grambling|Grambling|SWAC|college-football|grambling-tigers
+Jackson State|Jackson State|SWAC|college-football|jackson-state-tigers
+Mississippi Valley State|Mississippi Valley State|SWAC|college-football|mississippi-valley-state-delta-devils
+Prairie View|Prairie View|SWAC|college-football|prairie-view-panthers
+Southern|Southern|SWAC|college-football|southern-jaguars
+Texas Southern|Texas Southern|SWAC|college-football|texas-southern-tigers
